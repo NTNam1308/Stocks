@@ -1,0 +1,2543 @@
+{
+  "nonbank": {
+    "items": [
+      {
+        "thong_tin": "TÀI SẢN",
+        "is_header": "1",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "A. Tài sản lưu động và đầu tư ngắn hạn",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Tiền và các khoản tương đương tiền",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tiền",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "2. Các khoản tương đương tiền",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "II. Các khoản đầu tư tài chính ngắn hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Chứng khoán kinh doanh",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.5"
+      },
+      {
+        "thong_tin": "2. Dự phòng giảm giá chứng khoán kinh doanh",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.5"
+      },
+      {
+        "thong_tin": "3. Đầu tư nắm giữ đến ngày đáo hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.5"
+      },
+      {
+        "thong_tin": "III. Các khoản phải thu ngắn hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Phải thu ngắn hạn của khách hàng",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.9"
+      },
+      {
+        "thong_tin": "2. Trả trước cho người bán",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.9"
+      },
+      {
+        "thong_tin": "3. Phải thu nội bộ ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.9"
+      },
+      {
+        "thong_tin": "4. Phải thu theo tiến độ hợp đồng xây dựng",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.9"
+      },
+      {
+        "thong_tin": "5. Phải thu về cho vay ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.9"
+      },
+      {
+        "thong_tin": "6. Phải thu ngắn hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.9"
+      },
+      {
+        "thong_tin": "7. Dự phòng phải thu ngắn hạn khó đòi",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.9"
+      },
+      {
+        "thong_tin": "IV. Tổng hàng tồn kho",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Hàng tồn kho",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.17"
+      },
+      {
+        "thong_tin": "2. Dự phòng giảm giá hàng tồn kho",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.17"
+      },
+      {
+        "thong_tin": "V. Tài sản ngắn hạn khác",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Chi phí trả trước ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.20"
+      },
+      {
+        "thong_tin": "2. Thuế giá trị gia tăng được khấu trừ",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.20"
+      },
+      {
+        "thong_tin": "3. Thuế và các khoản phải thu Nhà nước",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.20"
+      },
+      {
+        "thong_tin": "4. Giao dịch mua bán lại trái phiếu chính phủ",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.20"
+      },
+      {
+        "thong_tin": "5. Tài sản ngắn hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.20"
+      },
+      {
+        "thong_tin": "B. Tài sản cố định và đầu tư dài hạn",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Các khoản phải thu dài hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.26",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Phải thu dài hạn của khách hàng",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.27"
+      },
+      {
+        "thong_tin": "2. Vốn kinh doanh tại các đơn vị trực thuộc",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.27"
+      },
+      {
+        "thong_tin": "3. Phải thu dài hạn nội bộ",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.27"
+      },
+      {
+        "thong_tin": "4. Phải thu về cho vay dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.27"
+      },
+      {
+        "thong_tin": "5. Phải thu dài hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.27"
+      },
+      {
+        "thong_tin": "6. Dự phòng phải thu dài hạn khó đòi",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.27"
+      },
+      {
+        "thong_tin": "II. Tài sản cố định",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.26",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tài sản cố định hữu hình",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.34",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.26.34.35"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.26.34.35"
+      },
+      {
+        "thong_tin": "2. Tài sản cố định thuê tài chính",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.34",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.26.34.38"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.26.34.38"
+      },
+      {
+        "thong_tin": "3. Tài sản cố định vô hình",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.34",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.26.34.41"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.26.34.41"
+      },
+      {
+        "thong_tin": "III. Bất động sản đầu tư",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.26",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.26.44"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.26.44"
+      },
+      {
+        "thong_tin": "IV. Tài sản dở dang dài hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.26",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Chi phí sản xuất, kinh doanh dở dang dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.47"
+      },
+      {
+        "thong_tin": "2. chi phí xây dựng cơ bản dở dang",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.47"
+      },
+      {
+        "thong_tin": "V. Các khoản đầu tư tài chính dài hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.26",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Đầu tư vào công ty con",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.50"
+      },
+      {
+        "thong_tin": "2. Đầu tư vào công ty liên kết, liên doanh",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.50"
+      },
+      {
+        "thong_tin": "3. Đầu tư khác vào công cụ vốn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.50"
+      },
+      {
+        "thong_tin": "4. Dự phòng giảm giá đầu tư tài chính dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.50"
+      },
+      {
+        "thong_tin": "5. Đầu tư nắm giữ đến ngày đáo hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.50"
+      },
+      {
+        "thong_tin": "VI. Tổng tài sản dài hạn khác",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.26",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Chi phí trả trước dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.56"
+      },
+      {
+        "thong_tin": "2. Tài sản Thuế thu nhập hoãn lại",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.56"
+      },
+      {
+        "thong_tin": "3. Tài sản dài hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.26.56"
+      },
+      {
+        "thong_tin": "VII. Lợi thế thương mại",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.26"
+      },
+      {
+        "thong_tin": "TỔNG CỘNG TÀI SẢN",
+        "is_bold": "1",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "NGUỒN VỐN",
+        "is_header": "1",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "A. Nợ phải trả",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "62",
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Nợ ngắn hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "62.63",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Vay và nợ thuê tài chính ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "2. Vay và nợ dài hạn đến hạn phải trả",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "3. Phải trả người bán ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "4. Người mua trả tiền trước",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "5. Thuế và các khoản phải nộp nhà nước",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "6. Phải trả người lao động",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "7. Chi phí phải trả ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "8. Phải trả nội bộ ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "9. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "10. Doanh thu chưa thực hiện ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "11. Phải trả ngắn hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "12. Dự phòng phải trả ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "13. Quỹ khen thưởng phúc lợi",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "14. Quỹ bình ổn giá",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "15. Giao dịch mua bán lại trái phiếu chính phủ",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.64"
+      },
+      {
+        "thong_tin": "II. Nợ dài hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "62.63",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Phải trả người bán dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "2. Chi phí phải trả dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "3. Phải trả nội bộ về vốn kinh doanh",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "4. Phải trả nội bộ dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "5. Phải trả dài hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "6. Vay và nợ thuê tài chính dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "7. Trái phiếu chuyển đổi",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "8. Thuế thu nhập hoãn lại phải trả",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "9. Dự phòng trợ cấp mất việc làm",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "10. Dự phòng phải trả dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "11. Doanh thu chưa thực hiện dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "12. Quỹ phát triển khoa học và công nghệ",
+        "style": "padding-left: 60px",
+        "key_parent": "62.63.80"
+      },
+      {
+        "thong_tin": "B. Nguồn vốn chủ sở hữu",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "62",
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Vốn chủ sở hữu",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "62.93",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Vốn đầu tư của chủ sở hữu",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "2. Thặng dư vốn cổ phần",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "3. Quyền chọn chuyển đổi trái phiếu",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "4. Vốn khác của chủ sở hữu",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "5. Cổ phiếu quỹ",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "6. Chênh lệch đánh giá lại tài sản",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "7. Chênh lệch tỷ giá hối đoái",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "8. Quỹ đầu tư phát triển",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "9. Quỹ dự phòng tài chính",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "10. Quỹ khác thuộc vốn chủ sở hữu",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "11. Lợi nhuận sau thuế chưa phân phối",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- LNST chưa phân phối lũy kế đến cuối kỳ trước",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "62.93.94.105"
+      },
+      {
+        "thong_tin": "- LNST chưa phân phối kỳ này",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "62.93.94.105"
+      },
+      {
+        "thong_tin": "12. Nguồn vốn đầu tư xây dựng cơ bản",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "13. Quỹ hỗ trợ sắp xếp doanh nghiệp",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "14. Lợi ích của cổ đông không kiểm soát",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.94"
+      },
+      {
+        "thong_tin": "II. Nguồn kinh phí và quỹ khác",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "62.93",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Nguồn kinh phí ",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.111"
+      },
+      {
+        "thong_tin": "2. Nguồn kinh phí đã hình thành tài sản cố định",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.111"
+      },
+      {
+        "thong_tin": "3. Quỹ dự phòng trợ cấp mất việc làm",
+        "style": "padding-left: 60px",
+        "key_parent": "62.93.111"
+      },
+      {
+        "thong_tin": "TỔNG CỘNG NGUỒN VỐN",
+        "is_bold": "1",
+        "is_root": true,
+        "is_show_child": true
+      }
+    ]
+  },
+  "bank": {
+    "items": [
+      {
+        "thong_tin": "TÀI SẢN",
+        "is_header": "1",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Tiền mặt, chứng từ có giá trị, ngoại tệ, kim loại quý, đá quý",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "II. Tiền gửi tại NHNN",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "III. Tín phiếu kho bạc và các giấy tờ có giá ngắn hạn đủ tiêu chuẩn khác",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "IV. Tiền, vàng gửi tại các TCTD khác và cho vay các TCTD khác",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tiền, Vàng gửi tại các TCTD khác",
+        "style": "padding-left: 40px",
+        "key_parent": "0.4"
+      },
+      {
+        "thong_tin": "2. Cho vay các TCTD khác",
+        "style": "padding-left: 40px",
+        "key_parent": "0.4"
+      },
+      {
+        "thong_tin": "3. Dự phòng rủi ro cho vay các TCTD khác",
+        "style": "padding-left: 40px",
+        "key_parent": "0.4"
+      },
+      {
+        "thong_tin": "V. Chứng khoán kinh doanh",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Chứng khoán kinh doanh",
+        "style": "padding-left: 40px",
+        "key_parent": "0.8"
+      },
+      {
+        "thong_tin": "2. Dự phòng giảm giá chứng khoán kinh doanh",
+        "style": "padding-left: 40px",
+        "key_parent": "0.8"
+      },
+      {
+        "thong_tin": "VI. Các công cụ tài chính phái sinh và các tài sản tài chính khác",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "VII. Cho vay khách hàng",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Cho vay khách hàng",
+        "style": "padding-left: 40px",
+        "key_parent": "0.12"
+      },
+      {
+        "thong_tin": "2. Dự phòng rủi  ro cho vay khách hàng",
+        "style": "padding-left: 40px",
+        "key_parent": "0.12"
+      },
+      {
+        "thong_tin": "VIII. Chứng khoán đầu tư",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Chứng khoán đầu tư sẵn sàng để bán",
+        "style": "padding-left: 40px",
+        "key_parent": "0.15"
+      },
+      {
+        "thong_tin": "2. Chứng khoán đầu tư giữ đến ngày đáo hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "0.15"
+      },
+      {
+        "thong_tin": "3. Dự phòng giảm giá chứng khoán đầu tư",
+        "style": "padding-left: 40px",
+        "key_parent": "0.15"
+      },
+      {
+        "thong_tin": "IX. Góp vốn đầu tư dài hạn",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Đầu tư vào công ty con",
+        "style": "padding-left: 40px",
+        "key_parent": "0.19"
+      },
+      {
+        "thong_tin": "2. Góp vốn liên doanh",
+        "style": "padding-left: 40px",
+        "key_parent": "0.19"
+      },
+      {
+        "thong_tin": "3. Đầu tư vào công ty liên kết",
+        "style": "padding-left: 40px",
+        "key_parent": "0.19"
+      },
+      {
+        "thong_tin": "4. Đầu tư dài hạn khác",
+        "style": "padding-left: 40px",
+        "key_parent": "0.19"
+      },
+      {
+        "thong_tin": "5. Dự phòng giảm giá đầu tư dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "0.19"
+      },
+      {
+        "thong_tin": "X. Tài sản cố định",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tài sản cố định hữu hình",
+        "style": "padding-left: 40px",
+        "key_parent": "0.25",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.25.26"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.25.26"
+      },
+      {
+        "thong_tin": "2. Tài sản cố định thuê tài chính",
+        "style": "padding-left: 40px",
+        "key_parent": "0.25",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.25.29"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.25.29"
+      },
+      {
+        "thong_tin": "3. Tài sản cố định vô hình",
+        "style": "padding-left: 40px",
+        "key_parent": "0.25",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.25.32"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.25.32"
+      },
+      {
+        "thong_tin": "5. Chi phí XDCB dở dang",
+        "style": "padding-left: 40px",
+        "key_parent": "0.25"
+      },
+      {
+        "thong_tin": "XI. Bất động sản đầu tư",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 40px",
+        "is_italics": "1",
+        "key_parent": "0.36"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 40px",
+        "is_italics": "1",
+        "key_parent": "0.36"
+      },
+      {
+        "thong_tin": "XII. Tài sản có khác",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Các khoản phải thu",
+        "style": "padding-left: 40px",
+        "key_parent": "0.39"
+      },
+      {
+        "thong_tin": "2. Các khoản lãi, phí phải thu",
+        "style": "padding-left: 40px",
+        "key_parent": "0.39"
+      },
+      {
+        "thong_tin": "3. Tài sản thuế TNDN hoãn lại",
+        "style": "padding-left: 40px",
+        "key_parent": "0.39"
+      },
+      {
+        "thong_tin": "4. Tài sản có khác",
+        "style": "padding-left: 40px",
+        "key_parent": "0.39",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Trong đó: Lợi thế thương mại",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.39.43"
+      },
+      {
+        "thong_tin": "5. Các khoản dự phòng rủi ro cho các tài sản có nội bảng khác",
+        "style": "padding-left: 40px",
+        "key_parent": "0.39"
+      },
+      {
+        "thong_tin": "TỔNG CỘNG TÀI SẢN",
+        "is_bold": "1",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "NGUỒN VỐN",
+        "is_header": "1",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Các khoản nợ chính phủ và NHNN",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "47"
+      },
+      {
+        "thong_tin": "II. Tiền gửi và cho vay các TCTD khác",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "47",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tiền gửi các tổ chức tín dụng khác",
+        "style": "padding-left: 40px",
+        "key_parent": "47.49"
+      },
+      {
+        "thong_tin": "2. Vay các TCTD khác",
+        "style": "padding-left: 40px",
+        "key_parent": "47.49"
+      },
+      {
+        "thong_tin": "III. Tiền gửi khách hàng",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "47"
+      },
+      {
+        "thong_tin": "IV. Các công cụ tài chính phái sinh và các khoản nợ tài chính khác",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "47"
+      },
+      {
+        "thong_tin": "V. Vốn tài trợ, uỷ thác đầu tư mà ngân hàng chịu rủi ro",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "47"
+      },
+      {
+        "thong_tin": "VI. Phát hành giấy tờ có giá",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "47"
+      },
+      {
+        "thong_tin": "VII. Các khoản nợ khác",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "47",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Các khoản lãi, phí phải trả",
+        "style": "padding-left: 40px",
+        "key_parent": "47.56"
+      },
+      {
+        "thong_tin": "2.Thuế TNDN hoãn lại phải trả",
+        "style": "padding-left: 40px",
+        "key_parent": "47.56"
+      },
+      {
+        "thong_tin": "3. Các khoản phải trả và công nợ khác",
+        "style": "padding-left: 40px",
+        "key_parent": "47.56"
+      },
+      {
+        "thong_tin": "4. Dự phòng rủi ro khác",
+        "style": "padding-left: 40px",
+        "key_parent": "47.56"
+      },
+      {
+        "thong_tin": "VIII. Vốn và các quỹ",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "47",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Vốn của Tổ chức tín dụng",
+        "style": "padding-left: 40px",
+        "key_parent": "47.61",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Vốn điều lệ",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "47.61.62"
+      },
+      {
+        "thong_tin": "- Vốn đầu tư XDCB",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "47.61.62"
+      },
+      {
+        "thong_tin": "- Thặng dư vốn cổ phần",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "47.61.62"
+      },
+      {
+        "thong_tin": "- Cổ phiếu quỹ",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "47.61.62"
+      },
+      {
+        "thong_tin": "- Cổ phiếu ưu đãi",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "47.61.62"
+      },
+      {
+        "thong_tin": "- Vốn khác",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "47.61.62"
+      },
+      {
+        "thong_tin": "2. Quỹ của TCTD",
+        "style": "padding-left: 40px",
+        "key_parent": "47.61"
+      },
+      {
+        "thong_tin": "3. Chênh lệch tỷ giá hối đoái",
+        "style": "padding-left: 40px",
+        "key_parent": "47.61"
+      },
+      {
+        "thong_tin": "4. Chênh lệch đánh giá lại tài sản",
+        "style": "padding-left: 40px",
+        "key_parent": "47.61"
+      },
+      {
+        "thong_tin": "5. Lợi nhuận chưa phân phối/Lỗ lũy kế",
+        "style": "padding-left: 40px",
+        "key_parent": "47.61"
+      },
+      {
+        "thong_tin": "6. Nguồn kinh phí, Quỹ khác",
+        "style": "padding-left: 40px",
+        "key_parent": "47.61"
+      },
+      {
+        "thong_tin": "IX. Lợi ích của cổ đông không kiểm soát",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "47"
+      },
+      {
+        "thong_tin": "TỔNG NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU",
+        "is_bold": "1",
+        "is_root": true,
+        "is_show_child": true
+      }
+    ]
+  },
+  "stock": {
+    "items": [
+      {
+        "thong_tin": "TÀI SẢN",
+        "is_header": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "A. TÀI SẢN NGẮN HẠN",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Tài sản tài chính",
+        "style": "padding-left: 40px",
+        "is_bold": "true",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tiền và các khoản tương đương tiền",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1.1. Tiền",
+        "style": "padding-left: 80px",
+        "key_parent": "0.1.2.3"
+      },
+      {
+        "thong_tin": "1.2. Các khoản tương đương tiền",
+        "style": "padding-left: 80px",
+        "key_parent": "0.1.2.3"
+      },
+      {
+        "thong_tin": "2. Các tài sản tài chính ghi nhận thông qua lãi lỗ (FVTPL)",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "3. Các  khoản đầu tư  giữ đến ngày đáo hạn (HTM)",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "4. Các khoản cho vay",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "5. Các tài sản tài chính sẵn sàng để bán (AFS)",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "6. Dự phòng suy giảm giá trị các tài sản tài chính và tài sản thế chấp",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "7. Các khoản phải thu",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "7.1. Phải thu bán các tài sản tài chính",
+        "style": "padding-left: 80px",
+        "key_parent": "0.1.2.11"
+      },
+      {
+        "thong_tin": "7.2. Phải thu và dự thu cổ tức, tiền lãi các tài sản tài chính",
+        "style": "padding-left: 80px",
+        "key_parent": "0.1.2.11",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "7.2.1. Phải thu cổ tức, tiền lãi đến ngày nhận",
+        "style": "padding-left: 100px",
+        "key_parent": "0.1.2.11.13"
+      },
+      {
+        "thong_tin": "Trong đó: Phải thu khó đòi về cổ tức, tiền lãi đến ngày nhận nhưng chưa nhận được",
+        "style": "padding-left: 100px",
+        "key_parent": "0.1.2.11.13"
+      },
+      {
+        "thong_tin": "7.2.2. Dự thu cổ tức, tiền lãi chưa đến ngày nhận ",
+        "style": "padding-left: 100px",
+        "key_parent": "0.1.2.11.13"
+      },
+      {
+        "thong_tin": "8. Thuế giá trị gia tăng được khấu trừ",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "9. Phải thu các dịch vụ CTCK cung cấp",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "10. Phải thu nội bộ",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "11. Phải thu về lỗi giao dịch chứng khoán",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "12. Các khoản phải thu khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "13. Dự phòng suy giảm giá trị các khoản phải thu (*)",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "II.Tài sản ngắn hạn khác",
+        "style": "padding-left: 40px",
+        "is_bold": "true",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tạm ứng",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.23"
+      },
+      {
+        "thong_tin": "2. Vật tư văn phòng, công cụ, dụng cụ",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.23"
+      },
+      {
+        "thong_tin": "3. Chi phí trả trước ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.23"
+      },
+      {
+        "thong_tin": "4. Cầm cố, thế chấp, ký quỹ, ký cược ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.23"
+      },
+      {
+        "thong_tin": "5. Tài sản ngắn hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.23"
+      },
+      {
+        "thong_tin": "6. Dự phòng suy giảm giá trị tài sản ngắn hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.23"
+      },
+      {
+        "thong_tin": "B.TÀI SẢN DÀI HẠN",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Tài sản tài chính dài hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "true",
+        "key_parent": "0.30",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Các khoản phải thu dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.30.31"
+      },
+      {
+        "thong_tin": "2. Các khoản đầu tư",
+        "style": "padding-left: 60px",
+        "key_parent": "0.30.31",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "2.1. Các khoản đầu tư nắm giữ đến ngày đáo hạn",
+        "style": "padding-left: 80px",
+        "key_parent": "0.30.31.33"
+      },
+      {
+        "thong_tin": "2.2. Đầu tư vào công ty con",
+        "style": "padding-left: 80px",
+        "key_parent": "0.30.31.33"
+      },
+      {
+        "thong_tin": "2.3. Đầu tư vào công ty liên doanh, liên kết ",
+        "style": "padding-left: 80px",
+        "key_parent": "0.30.31.33"
+      },
+      {
+        "thong_tin": "II. Tài sản cố định",
+        "style": "padding-left: 40px",
+        "is_bold": "true",
+        "key_parent": "0.30",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tài sản cố định hữu hình",
+        "style": "padding-left: 60px",
+        "key_parent": "0.30.37",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "0.30.37.38"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "0.30.37.38"
+      },
+      {
+        "thong_tin": "- Đánh giá TSCĐHH theo giá trị hợp lý",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "0.30.37.38"
+      },
+      {
+        "thong_tin": "2.Tài sản cố định thuê tài chính",
+        "style": "padding-left: 60px",
+        "key_parent": "0.30.37",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "0.30.37.42"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "0.30.37.42"
+      },
+      {
+        "thong_tin": "- Đánh giá TSCĐHH theo giá trị hợp lý",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "0.30.37.42"
+      },
+      {
+        "thong_tin": "3. Tài sản cố định vô hình",
+        "style": "padding-left: 60px",
+        "key_parent": "0.30.37",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "0.30.37.46"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "0.30.37.46"
+      },
+      {
+        "thong_tin": "- Đánh giá TSCĐVH theo giá trị hợp lý",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "0.30.37.46"
+      },
+      {
+        "thong_tin": "III. Bất động sản đầu tư",
+        "style": "padding-left: 40px",
+        "is_bold": "true",
+        "key_parent": "0.30",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 60px",
+        "is_italics": "true",
+        "key_parent": "0.30.50"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 60px",
+        "is_italics": "true",
+        "key_parent": "0.30.50"
+      },
+      {
+        "thong_tin": "- Đánh giá TSCĐVH theo giá trị hợp lý",
+        "style": "padding-left: 60px",
+        "is_italics": "true",
+        "key_parent": "0.30.50"
+      },
+      {
+        "thong_tin": "IV. Chi phí xây dựng cơ bản dở dang",
+        "style": "padding-left: 40px",
+        "is_bold": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "V. Tài sản dài hạn khác",
+        "style": "padding-left: 40px",
+        "is_bold": "true",
+        "key_parent": "0.30",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Cầm cố, thế chấp, ký quỹ, ký cược dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.30.55"
+      },
+      {
+        "thong_tin": "2. Chi phí trả trước dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.30.55"
+      },
+      {
+        "thong_tin": "3. Tài sản thuế thu nhập hoãn lại",
+        "style": "padding-left: 60px",
+        "key_parent": "0.30.55"
+      },
+      {
+        "thong_tin": "4. Tiền nộp Quỹ Hỗ trợ thanh toán",
+        "style": "padding-left: 60px",
+        "key_parent": "0.30.55"
+      },
+      {
+        "thong_tin": "5. Tài sản dài hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.30.55"
+      },
+      {
+        "thong_tin": "VI. Dự phòng suy giảm giá trị tài sản dài hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "TỔNG CỘNG TÀI SẢN",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": false,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "C. NỢ PHẢI TRẢ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Nợ phải trả ngắn hạn",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "63",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Vay và nợ thuê tài sản tài chính ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1.1. Vay ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "63.64.65"
+      },
+      {
+        "thong_tin": "1.2. Nợ thuê tài sản tài chính ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "63.64.65"
+      },
+      {
+        "thong_tin": "2. Vay tài sản tài chính ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "3. Trái phiếu chuyển đổi ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "4. Trái phiếu phát hành ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "5. Vay Quỹ Hỗ trợ thanh toán",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "6. Phải trả hoạt động giao dịch chứng khoán",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "7. Phải trả về lỗi giao dịch các tài sản tài chính",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "8. Phải trả người bán ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "9. Người mua trả tiền trước",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "10. Thuế và các khoản phải nộp nhà nước",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "11. Phải trả người lao động",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "12. Các khoản trích nộp phúc lợi nhân viên",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "13. Chi phí phải trả ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "14. Phải trả nội bộ ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "15. Doanh thu chưa thực hiện ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "16. Nhận ký quỹ, ký cược ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "17.Các khoản phải trả, phải nộp khác ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "18. Dự phòng phải trả ngắn hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "12. Quỹ khen thưởng phúc lợi",
+        "style": "padding-left: 40px",
+        "key_parent": "63.64"
+      },
+      {
+        "thong_tin": "II. Nợ phải trả dài hạn",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "63",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Vay và nợ thuê tài sản tài chính dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1.1. Vay dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "63.86.87"
+      },
+      {
+        "thong_tin": "1.2. Nợ thuê tài sản tài chính dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "63.86.87"
+      },
+      {
+        "thong_tin": "2. Vay tài sản tài chính dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "3. Trái phiếu chuyển đổi dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "4. Trái phiếu phát hành dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "5. Phải trả người bán dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "6. Người mua trả tiền trước dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "7. Chi phí phải trả dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "8. Phải trả nội bộ dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "9. Doanh thu chưa thực hiện dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "10. Nhận ký quỹ, ký cược dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "11. Các khoản phải trả, phải nộp khác dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "12. Dự phòng phải trả dài hạn",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "13. Dự phòng bồi thường thiệt hại cho nhà đầu tư",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "14. Thuế thu nhập hoãn lại phải trả",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "15. Quỹ phát triển khoa học và công nghệ",
+        "style": "padding-left: 40px",
+        "key_parent": "63.86"
+      },
+      {
+        "thong_tin": "D. VỐN CHỦ SỞ HỮU",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Vốn chủ sở hữu",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "104",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Vốn đầu tư của chủ sở hữu",
+        "style": "padding-left: 40px",
+        "key_parent": "104.105",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1.1. Vốn góp của chủ sở hữu",
+        "style": "padding-left: 60px",
+        "key_parent": "104.105.106",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "a. Cổ phiếu phổ thông",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "104.105.106.107"
+      },
+      {
+        "thong_tin": "b. Cổ phiếu ưu đãi",
+        "style": "padding-left: 80px",
+        "is_italics": "true",
+        "key_parent": "104.105.106.107"
+      },
+      {
+        "thong_tin": "1.2. Thặng dư vốn cổ phần",
+        "style": "padding-left: 60px",
+        "key_parent": "104.105.106"
+      },
+      {
+        "thong_tin": "1.3. Quyền chọn chuyển đổi trái phiếu",
+        "style": "padding-left: 60px",
+        "key_parent": "104.105.106"
+      },
+      {
+        "thong_tin": "1.4. Vốn khác của chủ sở hữu",
+        "style": "padding-left: 60px",
+        "key_parent": "104.105.106"
+      },
+      {
+        "thong_tin": "1.5. Cổ phiếu quỹ",
+        "style": "padding-left: 60px",
+        "key_parent": "104.105.106"
+      },
+      {
+        "thong_tin": "2. Chênh lệch đánh giá tài sản theo giá trị hợp lý",
+        "style": "padding-left: 40px",
+        "key_parent": "104.105"
+      },
+      {
+        "thong_tin": "3. Chênh lệch tỷ giá hối đoái",
+        "style": "padding-left: 40px",
+        "key_parent": "104.105"
+      },
+      {
+        "thong_tin": "4. Quỹ dự trữ điều lệ",
+        "style": "padding-left: 40px",
+        "key_parent": "104.105"
+      },
+      {
+        "thong_tin": "5. Quỹ dự phòng tài chính và rủi ro nghề nghiệp",
+        "style": "padding-left: 40px",
+        "key_parent": "104.105"
+      },
+      {
+        "thong_tin": "6. Các Quỹ khác thuộc vốn chủ sở hữu",
+        "style": "padding-left: 40px",
+        "key_parent": "104.105"
+      },
+      {
+        "thong_tin": "7. Lợi nhuận chưa phân phối",
+        "style": "padding-left: 40px",
+        "key_parent": "104.105",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "7.1. Lợi nhuận đã thực hiện",
+        "style": "padding-left: 60px",
+        "key_parent": "104.105.119"
+      },
+      {
+        "thong_tin": "7.2. Lợi nhuận chưa thực hiện",
+        "style": "padding-left: 60px",
+        "key_parent": "104.105.119"
+      },
+      {
+        "thong_tin": "8. Lợi ích của cổ đông không nắm quyền kiểm soát",
+        "style": "padding-left: 40px",
+        "key_parent": "104.105"
+      },
+      {
+        "thong_tin": "II. Nguồn kinh phí và quỹ khác",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "104"
+      },
+      {
+        "thong_tin": "TỔNG CỘNG NỢ PHẢI TRẢ VÀ VỐN CHỦ SỞ HỮU",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": false,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "LỢI NHUẬN ĐÃ PHÂN PHỐI CHO NHÀ ĐẦU TƯ",
+        "is_root": true,
+        "is_parent": false,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "1. Lợi nhuận đã phân phối cho Nhà đầu tư trong năm",
+        "is_root": true,
+        "is_parent": false,
+        "is_show_child": true
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "thong_tin": "TÀI SẢN",
+        "is_header": "1",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "A. Tài sản lưu động và đầu tư ngắn hạn",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Tiền",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tiền mặt tại quỹ (gồm cả ngân phiếu)",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "2. Tiền gửi Ngân hàng",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "3. Tiền đang chuyển",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "4. Các khoản tương đương tiền",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.2"
+      },
+      {
+        "thong_tin": "II. Các khoản đầu tư tài chính ngắn hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Đầu tư chứng khoán ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.7"
+      },
+      {
+        "thong_tin": "2. Đầu tư ngắn hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.7"
+      },
+      {
+        "thong_tin": "3. Dự phòng giảm giá chứng khoán đầu tư ngắn hạn (*)",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.7"
+      },
+      {
+        "thong_tin": "III. Các khoản phải thu",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Phải thu của khách hàng",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.11"
+      },
+      {
+        "thong_tin": "2. Trả trước cho người bán",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.11"
+      },
+      {
+        "thong_tin": "3. Phải thu nội bộ",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.11"
+      },
+      {
+        "thong_tin": "4. Phải thu theo tiến độ hợp đồng xây dựng",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.11"
+      },
+      {
+        "thong_tin": "5. Thuế giá trị gia tăng được khấu trừ",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.11"
+      },
+      {
+        "thong_tin": "6. Các khoản phải thu khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.11"
+      },
+      {
+        "thong_tin": "7. Dự phòng các khoản phải thu khó đòi (*)",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.11"
+      },
+      {
+        "thong_tin": "IV. Hàng tồn kho",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Hàng tồn kho",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.19"
+      },
+      {
+        "thong_tin": "2. Dự phòng giảm giá hàng tồn kho (*)",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.19"
+      },
+      {
+        "thong_tin": "V. Tài sản ngắn hạn khác",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tạm ứng",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.22"
+      },
+      {
+        "thong_tin": "2. Chi phí trả trước ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.22"
+      },
+      {
+        "thong_tin": "3. Tài sản thiếu chờ xử lý",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.22"
+      },
+      {
+        "thong_tin": "4. Các khoản cầm cố, ký cược, ký quỹ ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.22"
+      },
+      {
+        "thong_tin": "5. Thuế giá trị gia tăng được khấu trừ",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.22"
+      },
+      {
+        "thong_tin": "6. Thuế và các khoản phải thu Nhà nước",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.22"
+      },
+      {
+        "thong_tin": "7. Tài sản ngắn hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.22"
+      },
+      {
+        "thong_tin": "VI. Chi sự nghiệp",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.1",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Chi sự nghiệp năm trước",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.30"
+      },
+      {
+        "thong_tin": "2. Chi sự nghiệp năm nay",
+        "style": "padding-left: 60px",
+        "key_parent": "0.1.30"
+      },
+      {
+        "thong_tin": "B. Tài sản cố định và đầu tư dài hạn",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Các khoản phải thu dài hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.33",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Phải thu dài hạn của khách hàng",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.34"
+      },
+      {
+        "thong_tin": "2. Vốn kinh doanh tại các đơn vị trực thuộc",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.34"
+      },
+      {
+        "thong_tin": "3. Phải thu dài hạn nội bộ",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.34"
+      },
+      {
+        "thong_tin": "4. Phải thu dài hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.34"
+      },
+      {
+        "thong_tin": "5. Dự phòng phải thu dài hạn khó đòi",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.34"
+      },
+      {
+        "thong_tin": "II. Tài sản cố định",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.33",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Tài sản cố định hữu hình",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.40",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.33.40.41"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.33.40.41"
+      },
+      {
+        "thong_tin": "2. Tài sản cố định thuê tài chính",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.40",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.33.40.44"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.33.40.44"
+      },
+      {
+        "thong_tin": "3. Tài sản cố định vô hình",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.40",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.33.40.47"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "0.33.40.47"
+      },
+      {
+        "thong_tin": "III. Chi phí xây dựng cơ bản dở dang",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.33"
+      },
+      {
+        "thong_tin": "IV. Bất động sản đầu tư",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.33",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguyên giá",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.33.51"
+      },
+      {
+        "thong_tin": "- Giá trị hao mòn lũy kế",
+        "style": "padding-left: 60px",
+        "is_italics": "1",
+        "key_parent": "0.33.51"
+      },
+      {
+        "thong_tin": "V. Các khoản đầu tư tài chính dài hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.33",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Đầu tư dài hạn giữ đến ngày đáo hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.54"
+      },
+      {
+        "thong_tin": "2. Đầu tư vào công ty con",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.54"
+      },
+      {
+        "thong_tin": "3. Đầu tư vào công ty liên kết, liên doanh",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.54"
+      },
+      {
+        "thong_tin": "4. Đầu tư dài hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.54"
+      },
+      {
+        "thong_tin": "5. Dự phòng giảm giá đầu tư tài chính dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.54"
+      },
+      {
+        "thong_tin": "VI. Các khoản ký quỹ, ký cược dài hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "0.33",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Chi phí trả trước dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.60"
+      },
+      {
+        "thong_tin": "2. Tài sản thuế thu nhập hoãn lãi",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.60"
+      },
+      {
+        "thong_tin": "3. Ký quỹ bảo hiểm",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.60"
+      },
+      {
+        "thong_tin": "4. Cầm cố, ký quỹ, ký cược dài hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "0.33.60"
+      },
+      {
+        "thong_tin": "TỔNG CỘNG TÀI SẢN",
+        "is_bold": "1",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "NGUỒN VỐN",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "A. NỢ PHẢI TRẢ",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "66",
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Nợ ngắn hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "66.67",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Vay và nợ ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.68"
+      },
+      {
+        "thong_tin": "2. Nợ dài hạn đến hạn phải trả",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.68"
+      },
+      {
+        "thong_tin": "3. Phải trả người bán",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.68"
+      },
+      {
+        "thong_tin": "4. Người mua trả tiền trước",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.68"
+      },
+      {
+        "thong_tin": "5. Thuế và các khoản phải nộp nhà nước",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.68"
+      },
+      {
+        "thong_tin": "6. Phải trả người lao động",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.68"
+      },
+      {
+        "thong_tin": "7. Phải trả nội bộ",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.68"
+      },
+      {
+        "thong_tin": "8. Phải trả theo tiến độ kế hoạch hợp đồng xây dựng",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.68"
+      },
+      {
+        "thong_tin": "9. Các khoản phải trả, phải nộp ngắn hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.68"
+      },
+      {
+        "thong_tin": "10. Dự phòng phải trả ngắn hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.68"
+      },
+      {
+        "thong_tin": "II. Nợ dài hạn",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "66.67",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Vay dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.79"
+      },
+      {
+        "thong_tin": "2. Nợ dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.79"
+      },
+      {
+        "thong_tin": "3. Phát hành trái phiếu",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.79"
+      },
+      {
+        "thong_tin": "4. Phải trả dài hạn khác",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.79"
+      },
+      {
+        "thong_tin": "III. Dự phòng nghiệp vụ",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "66.67",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Dự phòng phí",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.84"
+      },
+      {
+        "thong_tin": "2. Dự phòng toán học",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.84"
+      },
+      {
+        "thong_tin": "3. Dự phòng bồi thường",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.84"
+      },
+      {
+        "thong_tin": "4. Dự phòng dao động lớn",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.84"
+      },
+      {
+        "thong_tin": "5. Dự phòng chia lãi",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.84"
+      },
+      {
+        "thong_tin": "6. Dự phòng bảo đảm cân đối",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.84"
+      },
+      {
+        "thong_tin": "IV. Nợ khác",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "66.67",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Chi phí phải trả",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.91"
+      },
+      {
+        "thong_tin": "2. Tài sản thừa chờ xử lý",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.91"
+      },
+      {
+        "thong_tin": "3. Nhận ký quỹ, ký cược dài hạn",
+        "style": "padding-left: 60px",
+        "key_parent": "66.67.91"
+      },
+      {
+        "thong_tin": "B. NGUỒN VỐN CHỦ SỞ HỮU",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "66",
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "I. Vốn chủ sở hữu",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "66.95",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Vốn đầu tư của chủ sở hữu",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "2. Thặng dư vốn cổ phần",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "3. Vốn khác của chủ sở hữu",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "4. Cổ phiếu quỹ",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "5. Chênh lệch đánh giá lại tài sản",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "6. Chênh lệch tỷ giá hối đoái",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "7. Quỹ đầu tư phát triển",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "8. Quỹ dự phòng tài chính",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "9. Quỹ dự trữ bắt buộc",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "10. Quỹ khác thuộc vốn chủ sở hữu",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "11. Lợi nhuận sau thuế chưa phân phối",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "12. Nguồn vốn đầu tư xây dựng cơ bản",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.96"
+      },
+      {
+        "thong_tin": "II. Nguồn kinh phí, quỹ khác",
+        "style": "padding-left: 40px",
+        "is_bold": "1",
+        "key_parent": "66.95",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "1. Quỹ dự phòng trợ cấp mất việc làm",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.109"
+      },
+      {
+        "thong_tin": "2. Quỹ khen thưởng phúc lợi",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.109"
+      },
+      {
+        "thong_tin": "3. Quỹ khen thưởng phúc lợi đưa đi đầu tư",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.109"
+      },
+      {
+        "thong_tin": "4. Quỹ quản lý của cấp trên",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.109"
+      },
+      {
+        "thong_tin": "5. Nguồn kinh phí sự nghiệp",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.109",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Nguồn kinh phí sự nghiệp năm trước",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "66.95.109.114"
+      },
+      {
+        "thong_tin": "- Nguồn kinh phí sự nghiệp năm nay",
+        "style": "padding-left: 80px",
+        "is_italics": "1",
+        "key_parent": "66.95.109.114"
+      },
+      {
+        "thong_tin": "6. Nguồn kinh phí đã hình thành TSCĐ",
+        "style": "padding-left: 60px",
+        "key_parent": "66.95.109"
+      },
+      {
+        "thong_tin": "C. LỢI ÍCH CỔ ĐÔNG THIỂU SỐ",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "66"
+      },
+      {
+        "thong_tin": "TỔNG CỘNG NGUỒN VỐN",
+        "style": "padding-left: 20px",
+        "is_bold": "1",
+        "key_parent": "66"
+      }
+    ]
+  }
+}

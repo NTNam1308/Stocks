@@ -1,0 +1,52 @@
+{
+    "packages": [
+        {
+            "name": "coreui/coreui",
+            "version": "3.2.2",
+            "version_normalized": "3.2.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/coreui/coreui.git",
+                "reference": "82b54367ff341414e14d26406deca56073e29e67"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/coreui/coreui/zipball/82b54367ff341414e14d26406deca56073e29e67",
+                "reference": "82b54367ff341414e14d26406deca56073e29e67",
+                "shasum": ""
+            },
+            "time": "2020-06-24T18:51:07+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Open Source UI Kit built on top of Bootstrap 4.",
+            "homepage": "https://coreui.io/",
+            "keywords": [
+                "JS",
+                "css",
+                "framework",
+                "front-end",
+                "mobile-first",
+                "responsive",
+                "sass",
+                "web"
+            ],
+            "support": {
+                "issues": "https://github.com/coreui/coreui/issues",
+                "source": "https://github.com/coreui/coreui/tree/master"
+            },
+            "funding": [
+                {
+                    "url": "https://coreui.io/",
+                    "type": "custom"
+                }
+            ],
+            "install-path": "../coreui/coreui"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

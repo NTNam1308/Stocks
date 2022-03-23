@@ -1,0 +1,1044 @@
+{
+    "nonbank": {
+        "items": [
+            {
+                "thong_tin": "I. Hàng tồn kho"
+            },
+            {
+                "thong_tin": "1. Hàng mua đang đi đường Đơn vị: Tỷ VNĐ"
+            },
+            {
+                "thong_tin": "2. Nguyên liệu, vật liệu"
+            },
+            {
+                "thong_tin": "3. Công cụ, dụng cụ"
+            },
+            {
+                "thong_tin": "4. Chi phí SX, KD dở dang Đơn vị: Tỷ VNĐ"
+            },
+            {
+                "thong_tin": "5. Thành phẩm"
+            },
+            {
+                "thong_tin": "6. Hàng hóa"
+            },
+            {
+                "thong_tin": "7. Hàng gửi đi bán Đơn vị: Tỷ VNĐ"
+            },
+            {
+                "thong_tin": "8. Hàng hoá kho bảo thuế Đơn vị: Tỷ VNĐ"
+            },
+            {
+                "thong_tin": "9. Hàng hoá bất động sản Đơn vị: Tỷ VNĐ"
+            },
+            {
+                "thong_tin": "II. Vay và nợ thuê tài chính ngắn hạn"
+            },
+            {
+                "thong_tin": "1. Vay ngắn hạn Đơn vị: Tỷ VNĐ"
+            },
+            {
+                "thong_tin": "2. Vay dài hạn đến hạn trả Đơn vị: Tỷ VNĐ"
+            },
+            {
+                "thong_tin": "III. Vay dài hạn"
+            },
+            {
+                "thong_tin": "1. Vay ngân hàng"
+            },
+            {
+                "thong_tin": "2. Vay đối tượng khác"
+            },
+            {
+                "thong_tin": "3. Trái phiếu phát hành"
+            },
+            {
+                "thong_tin": "4. Thuê tài chính"
+            },
+            {
+                "thong_tin": "IV. Doanh thu hoạt động tài chính"
+            },
+            {
+                "thong_tin": "1. Lãi tiền gửi, tiền cho vay"
+            },
+            {
+                "thong_tin": "2. Lãi đầu tư trái phiếu, kỳ phiếu, tín phiếu"
+            },
+            {
+                "thong_tin": "3. Cổ tức, lợi nhuận được chia"
+            },
+            {
+                "thong_tin": "4. Lãi từ bán, thanh lý các khoản đầu tư"
+            },
+            {
+                "thong_tin": "5. Lãi bán ngoại tệ"
+            },
+            {
+                "thong_tin": "6. Lãi chênh lệch tỷ giá đã thực hiện"
+            },
+            {
+                "thong_tin": "7. Lãi chênh lệch tỷ giá chưa thực hiện"
+            },
+            {
+                "thong_tin": "8. Lãi bán hành trả chậm"
+            },
+            {
+                "thong_tin": "9. Doanh thu hoạt động tài chính khác"
+            },
+            {
+                "thong_tin": "V. Chi phí tài chính"
+            },
+            {
+                "thong_tin": "1. Lãi tiền vay"
+            },
+            {
+                "thong_tin": "2. Chiết khấu thanh toán, lãi bán hàng trả chậm"
+            },
+            {
+                "thong_tin": "3. Lỗ do thanh lý các khoản đầu tư ngắn hạn, dài hạn"
+            },
+            {
+                "thong_tin": "4. Lỗ bán ngoại tệ"
+            },
+            {
+                "thong_tin": "5. Lỗ chênh lệch tỷ giá đã thực hiện"
+            },
+            {
+                "thong_tin": "6. Lỗ chênh lệch tỷ giá chưa thực hiện"
+            },
+            {
+                "thong_tin": "7. Dự phòng giảm giá các khoản đầu tư ngắn hạn, dài hạn"
+            },
+            {
+                "thong_tin": "8. Chi phí tài chính khác"
+            }
+        ]
+    },
+    "bank": {
+        "items": [
+            {
+                "thong_tin": "I. Chứng khoán kinh doanh"
+            },
+            {
+                "thong_tin": "1. Chứng khoán nợ"
+            },
+            {
+                "thong_tin": "Chứng khoán Chính phủ"
+            },
+            {
+                "thong_tin": "Chứng khoán do các TCTD khác trong nước phát hành"
+            },
+            {
+                "thong_tin": "Chứng khoán do các TCKT trong nước phát hành"
+            },
+            {
+                "thong_tin": "Chứng khoán nợ khác"
+            },
+            {
+                "thong_tin": "2. Chứng khoán vốn"
+            },
+            {
+                "thong_tin": "Chứng khoán vốn do các TCTD khác trong nước phát hành"
+            },
+            {
+                "thong_tin": "Chứng khoán vốn do các TCKT khác trong nước phát hành"
+            },
+            {
+                "thong_tin": "Chứng khoán vốn nước ngoài"
+            },
+            {
+                "thong_tin": "Chứng khoán vốn khác"
+            },
+            {
+                "thong_tin": "3. Dự phòng rủi ro chứng khoán kinh doanh"
+            },
+            {
+                "thong_tin": "II. Dư nợ theo đối tượng"
+            },
+            {
+                "thong_tin": "1. Cho vay các tổ chức kinh tế, cá nhân trong nước"
+            },
+            {
+                "thong_tin": "2. Cho vay chiết khấu công cụ chuyển nhượng và các giấy tờ có giá"
+            },
+            {
+                "thong_tin": "3. Cho thuê tài chính"
+            },
+            {
+                "thong_tin": "4. Các khoản trả thay khách hàng"
+            },
+            {
+                "thong_tin": "5. Cho vay đối với các tổ chức, cá nhân nước ngoài"
+            },
+            {
+                "thong_tin": "6. Cho vay bằng vốn tài trợ, ủy thác đầu tư"
+            },
+            {
+                "thong_tin": "7. Cho vay theo chỉ định của Chính phủ"
+            },
+            {
+                "thong_tin": "8. Cho vay giao dịch ký quỹ và ứng trước cho khách hàng - theo khách hàng"
+            },
+            {
+                "thong_tin": "9. Nợ cho vay được khoanh và nợ chờ xử lý"
+            },
+            {
+                "thong_tin": "10. Cho vay thấu chi và thẻ tín dụng"
+            },
+            {
+                "thong_tin": "11. Cấp tín dụng khác"
+            },
+            {
+                "thong_tin": "III. Dư nợ theo chất lượng"
+            },
+            {
+                "thong_tin": "1. Nợ đủ tiêu chuẩn"
+            },
+            {
+                "thong_tin": "2. Nợ cần chú ý"
+            },
+            {
+                "thong_tin": "3. Nợ dưới tiêu chuẩn"
+            },
+            {
+                "thong_tin": "4. Nợ nghi ngờ"
+            },
+            {
+                "thong_tin": "5. Nợ xấu có khả năng mất vốn"
+            },
+            {
+                "thong_tin": "6. Cho vay giao dịch ký quỹ"
+            },
+            {
+                "thong_tin": "IV. Dư nợ theo thời gian"
+            },
+            {
+                "thong_tin": "1. Cho vay ngắn hạn"
+            },
+            {
+                "thong_tin": "2. Cho vay trung hạn"
+            },
+            {
+                "thong_tin": "3. Cho vay dài hạn"
+            },
+            {
+                "thong_tin": "4. Các khoản cho vay giao dịch ký quỹ và ứng trước cho khách hàng - theo thời gian"
+            },
+            {
+                "thong_tin": "V. Dư nợ theo loại hình doanh nghiệp"
+            },
+            {
+                "thong_tin": "1. Doanh nghiệp nhà nước"
+            },
+            {
+                "thong_tin": "2. CTCP khác, Công ty TNHH khác, Doanh nghiệp tư nhân, Công ty hợp danh"
+            },
+            {
+                "thong_tin": "Công ty TNHH khác"
+            },
+            {
+                "thong_tin": "Công ty cổ phần khác"
+            },
+            {
+                "thong_tin": "Doanh nghiệp tư nhân"
+            },
+            {
+                "thong_tin": "Công ty hợp danh"
+            },
+            {
+                "thong_tin": "3. Doanh nghiệp có vốn đầu tư nước ngoài"
+            },
+            {
+                "thong_tin": "4. Cá nhân, hộ kinh doanh"
+            },
+            {
+                "thong_tin": "5. Hợp tác xã và liên hiệp hợp tác xã"
+            },
+            {
+                "thong_tin": "6. Đơn vị hành chính sự nghiệp, Đảng, đoàn thể và hiệp hội"
+            },
+            {
+                "thong_tin": "7. Cho vay tại chi nhánh nước ngoài"
+            },
+            {
+                "thong_tin": "8. Cho khoản cho vay giao dịch ký quỹ và ứng trước cho khách hàng"
+            },
+            {
+                "thong_tin": "9. Thành phần kinh tế khác"
+            },
+            {
+                "thong_tin": "VI. Dư nợ phân theo ngành"
+            },
+            {
+                "thong_tin": "1. Công nghiệp chế biến, chế tạo"
+            },
+            {
+                "thong_tin": "2. Sản xuất và phân phối điện, khí đốt và nước"
+            },
+            {
+                "thong_tin": "3. Xây dựng"
+            },
+            {
+                "thong_tin": "4. Vận tải kho bãi và thông tin liên lạc"
+            },
+            {
+                "thong_tin": "Vận tải kho bãi"
+            },
+            {
+                "thong_tin": "Thông tin liên lạc"
+            },
+            {
+                "thong_tin": "5. Khai khoáng"
+            },
+            {
+                "thong_tin": "6. Nông, lâm, thủy hải sản"
+            },
+            {
+                "thong_tin": "7. Nhà hàng, khách sạn"
+            },
+            {
+                "thong_tin": "8. Hoạt động tài chính, ngân hàng và bảo hiểm"
+            },
+            {
+                "thong_tin": "9. Bán buôn và bán lẻ, sửa chữa ô tô, xe máy và xe có động cơ khác"
+            },
+            {
+                "thong_tin": "10. Cung cấp nước, hoạt động quản lý và xử lý rác thải, nước thải"
+            },
+            {
+                "thong_tin": "11. Hoạt động làm thuê các công việc trong các hộ gia đình, sản xuất sản phẩm vật chất và dịch vụ tiêu dùng của hộ gia đình"
+            },
+            {
+                "thong_tin": "12. Hoạt động kinh doanh bất động sản"
+            },
+            {
+                "thong_tin": "13. Hoạt động hành chính và dịch vụ hỗ trợ"
+            },
+            {
+                "thong_tin": "14. Hoạt động chuyên môn, khoa học và công nghệ"
+            },
+            {
+                "thong_tin": "15. Giáo dục đào tạo"
+            },
+            {
+                "thong_tin": "16. Hoạt động dịch vụ khác/ Thương mại dịch vụ"
+            },
+            {
+                "thong_tin": "17. Y tế và hoạt động trợ giúp xã hội"
+            },
+            {
+                "thong_tin": "18. Nghệ thuật, vui chơi, giải trí"
+            },
+            {
+                "thong_tin": "19. Hoạt động Đảng, tổ chức chính trị - xã hội"
+            },
+            {
+                "thong_tin": "20. Cho vay giao dịch ký quỹ và ứng trước cho khách hàng - vận tải thông tin liên lạc"
+            },
+            {
+                "thong_tin": "21. Cho vay tại chi nhánh nước ngoài/ Hoạt động của các tổ chức và cơ quan quốc tế"
+            },
+            {
+                "thong_tin": "22. Cho vay cá nhân"
+            },
+            {
+                "thong_tin": "23. Dư nợ khác"
+            },
+            {
+                "thong_tin": "VII. Dự phòng rủi ro cho vay khách hàng"
+            },
+            {
+                "thong_tin": "1. Dự phòng chung"
+            },
+            {
+                "thong_tin": "2. Dự phòng cụ thể"
+            },
+            {
+                "thong_tin": "3. Dự phòng rủi ro cho vay giao dịch ký quỹ"
+            },
+            {
+                "thong_tin": "VIII. Chứng khoán đầu tư sẵn sàng để bán"
+            },
+            {
+                "thong_tin": "1. Chứng khoán nợ"
+            },
+            {
+                "thong_tin": "Chứng khoán Chính phủ"
+            },
+            {
+                "thong_tin": "Chứng khoán do các TCTD khác trong nước phát hành"
+            },
+            {
+                "thong_tin": "Chứng khoán do các TCKT trong nước phát hành"
+            },
+            {
+                "thong_tin": "Chứng khoán nợ khác"
+            },
+            {
+                "thong_tin": "2. Chứng khoán vốn"
+            },
+            {
+                "thong_tin": "Chứng khoán vốn do các TCTD khác trong nước phát hành"
+            },
+            {
+                "thong_tin": "Chứng khoán vốn do các TCKT khác trong nước phát hành"
+            },
+            {
+                "thong_tin": "Chứng khoán vốn khác"
+            },
+            {
+                "thong_tin": "3. Dự phòng rủi chứng khoán đầu tư sẵn sàng để bán"
+            },
+            {
+                "thong_tin": "IX. Chứng khoán đầu tư giữ đến ngày đáo hạn"
+            },
+            {
+                "thong_tin": "1. Chứng khoán nợ"
+            },
+            {
+                "thong_tin": "Chứng khoán Chính phủ"
+            },
+            {
+                "thong_tin": "Chứng khoán do các TCTD khác trong nước phát hành"
+            },
+            {
+                "thong_tin": "Chứng khoán do các TCKT trong nước phát hành"
+            },
+            {
+                "thong_tin": "Chứng khoán nợ khác"
+            },
+            {
+                "thong_tin": "2. Dự phòng rủi chứng khoán đầu tư giữ đến ngày đáo hạn"
+            },
+            {
+                "thong_tin": "3. Trái phiếu đặc biệt do VAMC phát hành"
+            },
+            {
+                "thong_tin": "Mệnh giá trái phiếu đặc biệt"
+            },
+            {
+                "thong_tin": "Dự phòng trái phiếu đặc biệt"
+            },
+            {
+                "thong_tin": "X. Tiền gửi theo loại hình"
+            },
+            {
+                "thong_tin": "1. Tiền gửi không kỳ hạn"
+            },
+            {
+                "thong_tin": "2. Tiền gửi tiết kiệm và có kỳ hạn"
+            },
+            {
+                "thong_tin": "3. Tiền gửi vốn chuyên dùng"
+            },
+            {
+                "thong_tin": "4. Tiền gửi ký quỹ"
+            },
+            {
+                "thong_tin": "5. Tiền đảm bảo thanh toán khác"
+            },
+            {
+                "thong_tin": "XI. Tiền gửi theo đối tượng"
+            },
+            {
+                "thong_tin": "1. Các tổ chức kinh tế"
+            },
+            {
+                "thong_tin": "2. Cá nhân"
+            },
+            {
+                "thong_tin": "XII. Phát hành giấy tờ có giá theo loại hình"
+            },
+            {
+                "thong_tin": "1. Chứng chỉ tiền gửi"
+            },
+            {
+                "thong_tin": "2. Kỳ phiếu, Trái phiếu"
+            },
+            {
+                "thong_tin": "3. Giấy tờ có giá khác"
+            },
+            {
+                "thong_tin": "XIII. Phát hành giấy tờ có giá theo kỳ hạn"
+            },
+            {
+                "thong_tin": "1. Dưới 12 tháng"
+            },
+            {
+                "thong_tin": "2. 12 tháng đến 5 năm"
+            },
+            {
+                "thong_tin": "3. Trên 5 năm"
+            },
+            {
+                "thong_tin": "4. Phát hành trái phiếu chuyển đổi"
+            },
+            {
+                "thong_tin": "XIV. Thu nhập lãi và các khoản tương tự"
+            },
+            {
+                "thong_tin": "1. Thu nhập lãi cho vay"
+            },
+            {
+                "thong_tin": "2. Thu nhập lãi tiền gửi"
+            },
+            {
+                "thong_tin": "3. Thu nhập lãi từ chứng khoán"
+            },
+            {
+                "thong_tin": "4. Thu nhập lãi từ thuê tài chính"
+            },
+            {
+                "thong_tin": "5. Thu từ nghiệp vụ bảo lãnh"
+            },
+            {
+                "thong_tin": "6. Thu từ hoạt động mua nợ"
+            },
+            {
+                "thong_tin": "7. Thu khác từ hoạt động tín dụng"
+            },
+            {
+                "thong_tin": "XV. Chi phí lãi và các khoản chi phí tương tự"
+            },
+            {
+                "thong_tin": "1. Trả lãi tiền gửi"
+            },
+            {
+                "thong_tin": "2. Trả lãi tiền vay"
+            },
+            {
+                "thong_tin": "3. Trả lãi phát hành giấy tờ có giá"
+            },
+            {
+                "thong_tin": "4. Chi phí khác cho hoạt động tín dụng"
+            },
+            {
+                "thong_tin": "XVI. Thu nhập từ hoạt động dịch vụ"
+            },
+            {
+                "thong_tin": "1. Thu từ dịch vụ thanh toán"
+            },
+            {
+                "thong_tin": "2. Thu từ dịch vụ ngân quỹ/ quản lý quỹ"
+            },
+            {
+                "thong_tin": "3. Thu từ nghiệp vụ ủy thác và đại lý"
+            },
+            {
+                "thong_tin": "4. Thu từ hoạt động bảo hiểm"
+            },
+            {
+                "thong_tin": "5. Thu từ dịch vụ chứng khoán"
+            },
+            {
+                "thong_tin": "6. Thu từ dịch vụ tư vấn"
+            },
+            {
+                "thong_tin": "7. Thu phí khác"
+            },
+            {
+                "thong_tin": "XVII. Chi phí cho hoạt động dịch vụ"
+            },
+            {
+                "thong_tin": "1. Chi cho dịch vụ thanh toán"
+            },
+            {
+                "thong_tin": "2. Chi cho dịch vụ ngân quỹ/ quản lý quỹ"
+            },
+            {
+                "thong_tin": "3. Chi cho dịch vụ viễn thông"
+            },
+            {
+                "thong_tin": "4. Chi cho nghiệp vụ ủy thác và đại lý"
+            },
+            {
+                "thong_tin": "5. Chi cho hoạt động bảo hiểm"
+            },
+            {
+                "thong_tin": "6. Chi cho dịch vụ môi giới kinh doanh"
+            },
+            {
+                "thong_tin": "7. Chi cho dịch vụ tư vấn"
+            },
+            {
+                "thong_tin": "8. Chi khác"
+            },
+            {
+                "thong_tin": "XVIII. Thu nhập từ hoạt động kinh doanh vàng và ngoại hối"
+            },
+            {
+                "thong_tin": "1. Thu từ kinh doanh vàng và ngoại tệ giao ngay"
+            },
+            {
+                "thong_tin": "2. Thu từ các công cụ tài chính phái sinh tiền tệ"
+            },
+            {
+                "thong_tin": "3. Lãi chênh lệch tỷ giá ngoại tệ kinh doanh"
+            },
+            {
+                "thong_tin": "4. Lãi đánh giá lại các hợp đồng phái sinh"
+            },
+            {
+                "thong_tin": "XIX. Chi phí hoạt động kinh doanh vàng và ngoại hối"
+            },
+            {
+                "thong_tin": "1. Chi cho kinh doanh vàng và ngoại tệ giao ngay"
+            },
+            {
+                "thong_tin": "2. Chi cho các công cụ tài chính phái sinh tiền tệ"
+            },
+            {
+                "thong_tin": "3. Lỗ chênh lệch tỷ giá ngoại tệ kinh doanh"
+            },
+            {
+                "thong_tin": "4. Lỗ đánh giá lại các hợp đồng phái sinh"
+            },
+            {
+                "thong_tin": "XX. Lãi/lỗ thuần từ mua bán chứng khoán kinh doanh"
+            },
+            {
+                "thong_tin": "1. Thu nhập từ mua bán chứng khoán kinh doanh"
+            },
+            {
+                "thong_tin": "2. Chi phí về mua bán chứng khoán kinh doanh"
+            },
+            {
+                "thong_tin": "3. Trích lập dự phòng giảm giá chứng khoán kinh doanh"
+            },
+            {
+                "thong_tin": "4. Trích lập dự phòng rủi ro cho trái phiếu doanh nghiệp chưa niêm yết - ck kinh doanh"
+            },
+            {
+                "thong_tin": "XXI. Lãi/lỗ thuần từ mua bán chứng khoán đầu tư"
+            },
+            {
+                "thong_tin": "1. Thu nhập từ mua bán chứng khoán đầu tư"
+            },
+            {
+                "thong_tin": "2. Chi phí về mua bán chứng khoán đầu tư"
+            },
+            {
+                "thong_tin": "3. Trích lập dự phòng giảm giá chứng khoán đầu tư"
+            },
+            {
+                "thong_tin": "4. Trích lập dự phòng rủi ro cho trái phiếu doanh nghiệp chưa niêm yết - ck đầu tư"
+            },
+            {
+                "thong_tin": "XXII. Thu nhập từ hoạt động khác"
+            },
+            {
+                "thong_tin": "1. Thu từ các công cụ tài chính phái sinh khác"
+            },
+            {
+                "thong_tin": "2. Thu từ nghiệp vụ xử lý nợ"
+            },
+            {
+                "thong_tin": "3. Thu nhập chuyển nhượng, thanh lý tài sản"
+            },
+            {
+                "thong_tin": "4. Thu nhập khác"
+            },
+            {
+                "thong_tin": "XXIII. Chi phí hoạt động khác"
+            },
+            {
+                "thong_tin": "1. Chi từ các công cụ tài chính phái sinh khác"
+            },
+            {
+                "thong_tin": "2. Chi về nghiệp vụ mua bán nợ"
+            },
+            {
+                "thong_tin": "3. Chi từ chuyển nhượng, thanh lý tài sản"
+            },
+            {
+                "thong_tin": "4. Chi công tác xã hội"
+            },
+            {
+                "thong_tin": "5. Chi phí khác"
+            },
+            {
+                "thong_tin": "XXIV. Thu nhập từ vốn góp, mua cổ phần"
+            },
+            {
+                "thong_tin": "1. Cổ tức nhận được trong kỳ từ góp vốn, mua cổ phần"
+            },
+            {
+                "thong_tin": "2. Thu nhập từ thanh lý các khoản đầu tư góp vốn, mua cổ phần"
+            },
+            {
+                "thong_tin": "3. Phân chia lãi theo phương pháp vốn chủ sở hữu của các khoản đầu tư vào các công ty liên doanh, liên kết"
+            },
+            {
+                "thong_tin": "4. Thu khác từ góp vốn mua cổ phần"
+            },
+            {
+                "thong_tin": "XXV. Chi phí hoạt động"
+            },
+            {
+                "thong_tin": "1. Chi nộp thuế và các khoản phí, lệ phí"
+            },
+            {
+                "thong_tin": "2. Chi phí cho nhân viên"
+            },
+            {
+                "thong_tin": "Chi lương và các khoản chi đóng góp theo lương"
+            },
+            {
+                "thong_tin": "3. Chi về tài sản"
+            },
+            {
+                "thong_tin": "Khấu hao tài sản cố định"
+            },
+            {
+                "thong_tin": "4. Chi cho hoạt động quản lý công vụ"
+            },
+            {
+                "thong_tin": "5. Chi nộp phí bảo hiểm, bảo toàn tiền gửi của khách hàng"
+            },
+            {
+                "thong_tin": "6. Chi phí dự phòng"
+            },
+            {
+                "thong_tin": "7. Chi phí khác"
+            }
+        ]
+    },
+    "stock": {
+        "items": [
+            {
+                "thong_tin": "I. TSTC niêm yết/đăng ký giao dịch tại VSD của CTCK"
+            },
+            {
+                "thong_tin": "II. TSTC đã lưu ký tại VSD và chưa giao dịch của CTCK"
+            },
+            {
+                "thong_tin": "III. TSTC chờ về của CTCK"
+            },
+            {
+                "thong_tin": "IV. TSTC chưa lưu ký tại VSD của CTCK"
+            },
+            {
+                "thong_tin": "V. TSTC niêm yết/đăng ký giao dịch tại VSD của Nhà đầu tư"
+            },
+            {
+                "thong_tin": "VI. TSTC đã lưu ký tại VSD và chưa giao dịch của Nhà đầu tư"
+            },
+            {
+                "thong_tin": "VII. TSTC chờ về của Nhà đầu tư"
+            },
+            {
+                "thong_tin": "VIII. TSTC chưa lưu ký tại VSD của Nhà đầu tư"
+            },
+            {
+                "thong_tin": "IX. Tiền gửi của nhà đầu tư"
+            },
+            {
+                "thong_tin": "1. Tiền gửi về hoạt động môi giới chứng khoán"
+            },
+            {
+                "thong_tin": "Tiền gửi của Nhà đầu tư về GDCK (CTCK quản lý)"
+            },
+            {
+                "thong_tin": "Tiền của Nhà đầu tư về GDCK (NHTM quản lý )"
+            },
+            {
+                "thong_tin": "2. Tiền gửi tổng hợp giao dịch chứng khoán của Nhà đầu tư"
+            },
+            {
+                "thong_tin": "3. Tiền gửi bù trừ thanh toán GDCK"
+            },
+            {
+                "thong_tin": "4. Tiền gửi của Tổ chức phát hành chứng khoán"
+            },
+            {
+                "thong_tin": "X. Phải trả Nhà đầu tư về tiền gửi GDCK theo phương thức CTCK quản lý"
+            },
+            {
+                "thong_tin": "Phải trả Nhà đầu tư trong nước về tiền gửi GDCK"
+            },
+            {
+                "thong_tin": "Phải trả Nhà đầu tư nước ngoài về tiền gửi GDCK"
+            },
+            {
+                "thong_tin": "XI. Phải trả Nhà đầu tư về tiền gửi GDCK theo phương thức NHTM quản lý"
+            },
+            {
+                "thong_tin": "Phải trả Nhà đầu tư trong nước về về tiền gửi GDCK"
+            },
+            {
+                "thong_tin": "Phải trả Nhà đầu tư nước ngoài về tiền gửi GDCK"
+            },
+            {
+                "thong_tin": "XII. Giá trị ghi sổ Tài sản tài chính FVTPL"
+            },
+            {
+                "thong_tin": "1. Cổ phiếu niêm yết (FVTPL ghi sổ)"
+            },
+            {
+                "thong_tin": "2. Cổ phiếu chưa niêm yết (FVTPL ghi sổ)"
+            },
+            {
+                "thong_tin": "3. Chứng chỉ quỹ (FVTPL ghi sổ)"
+            },
+            {
+                "thong_tin": "4. Trái phiếu (FVTPL ghi sổ)"
+            },
+            {
+                "thong_tin": "5. Tài sản tài chính khác (FVTPL ghi sổ)"
+            },
+            {
+                "thong_tin": "XIII. Giá trị hợp lý Tài sản tài chính FVTPL"
+            },
+            {
+                "thong_tin": "1. Cổ phiếu niêm yết (FVTPL hợp lý)"
+            },
+            {
+                "thong_tin": "2. Cổ phiếu chưa niêm yết (FVTPL hợp lý)"
+            },
+            {
+                "thong_tin": "3. Chứng chỉ quỹ (FVTPL hợp lý)"
+            },
+            {
+                "thong_tin": "4. Trái phiếu (FVTPL hợp lý)"
+            },
+            {
+                "thong_tin": "5. Tài sản tài chính khác (FVTPL hợp lý)"
+            },
+            {
+                "thong_tin": "XIV. Giá trị ghi sổ Tài sản tài chính AFS"
+            },
+            {
+                "thong_tin": "1. Cổ phiếu niêm yết (AFS ghi sổ)"
+            },
+            {
+                "thong_tin": "2. Cổ phiếu chưa niêm yết (AFS ghi sổ)"
+            },
+            {
+                "thong_tin": "3. Chứng chỉ quỹ (AFS ghi sổ)"
+            },
+            {
+                "thong_tin": "4. Trái phiếu (AFS ghi sổ)"
+            },
+            {
+                "thong_tin": "5. Tài sản tài chính khác (AFS ghi sổ)"
+            },
+            {
+                "thong_tin": "XV. Giá trị hợp lý Tài sản tài chính AFS"
+            },
+            {
+                "thong_tin": "1. Cổ phiếu niêm yết (AFS hợp lý)"
+            },
+            {
+                "thong_tin": "2. Cổ phiếu chưa niêm yết (AFS hợp lý)"
+            },
+            {
+                "thong_tin": "3. Chứng chỉ quỹ (AFS hợp lý)"
+            },
+            {
+                "thong_tin": "4. Trái phiếu (AFS hợp lý)"
+            },
+            {
+                "thong_tin": "5. Tài sản tài chính khác (AFS hợp lý)"
+            },
+            {
+                "thong_tin": "XVI. Giá trị ghi sổ tài sản tài chính HTM"
+            },
+            {
+                "thong_tin": "1. Trái phiếu (HTM)"
+            },
+            {
+                "thong_tin": "2. Công cụ thị trường tiền tệ (HTM)"
+            },
+            {
+                "thong_tin": "3. Tài sản tài chính khác (HTM)"
+            },
+            {
+                "thong_tin": "XVII. Các khoản cho vay và phải thu"
+            },
+            {
+                "thong_tin": "1. Cho vay nghiệp vụ ký quỹ (margin)"
+            },
+            {
+                "thong_tin": "2. Cho vay ứng trước tiền bán chứng khoán của khách hàng"
+            },
+            {
+                "thong_tin": "3. Phải thu khác"
+            }
+        ]
+    },
+    "insurance": {
+        "items": [
+            {
+                "thong_tin": "I. Chứng khoán kinh doanh"
+            },
+            {
+                "thong_tin": "1. Cổ phiếu niêm yết"
+            },
+            {
+                "thong_tin": "2. Cổ phiếu chưa niêm yết"
+            },
+            {
+                "thong_tin": "3. Trái phiếu doanh nghiệp"
+            },
+            {
+                "thong_tin": "4. Trái phiếu chính phủ"
+            },
+            {
+                "thong_tin": "5. Chứng chỉ quỹ"
+            },
+            {
+                "thong_tin": "II. Đầu tư nắm giữ ngắn hạn"
+            },
+            {
+                "thong_tin": "1. Tiền gửi"
+            },
+            {
+                "thong_tin": "2. Trái phiếu doanh nghiệp"
+            },
+            {
+                "thong_tin": "3. Trái phiếu chính phủ"
+            },
+            {
+                "thong_tin": "4. Tạm ứng từ giá trị hoàn lại"
+            },
+            {
+                "thong_tin": "III. Đầu tư nắm giữ dài hạn"
+            },
+            {
+                "thong_tin": "1. Tiền gửi"
+            },
+            {
+                "thong_tin": "2. Trái phiếu doanh nghiệp"
+            },
+            {
+                "thong_tin": "3. Trái phiếu chính phủ"
+            },
+            {
+                "thong_tin": "IV. Dự phòng nghiệp vụ Bảo Hiểm"
+            },
+            {
+                "thong_tin": "1. Dự phòng phí"
+            },
+            {
+                "thong_tin": "Bảo hiểm nhân thọ"
+            },
+            {
+                "thong_tin": "Bảo hiểm phi nhân thọ"
+            },
+            {
+                "thong_tin": "2. Dự phòng bồi thường"
+            },
+            {
+                "thong_tin": "Bảo hiểm nhân thọ"
+            },
+            {
+                "thong_tin": "Bảo hiểm phi nhân thọ"
+            },
+            {
+                "thong_tin": "3. Dự phòng dao động lớn"
+            },
+            {
+                "thong_tin": "Bảo hiểm nhân thọ"
+            },
+            {
+                "thong_tin": "Bảo hiểm phi nhân thọ"
+            },
+            {
+                "thong_tin": "4. Dự phòng khác"
+            },
+            {
+                "thong_tin": "V. Thu phí bảo hiểm"
+            },
+            {
+                "thong_tin": "1. Bảo hiểm nhân thọ"
+            },
+            {
+                "thong_tin": "2. Bảo hiểm phi nhân thọ"
+            },
+            {
+                "thong_tin": "VI. Thu phí nhận tái bảo hiểm"
+            },
+            {
+                "thong_tin": "1. Bảo hiểm nhân thọ"
+            },
+            {
+                "thong_tin": "2. Bảo hiểm phi nhân thọ"
+            },
+            {
+                "thong_tin": "VII. Tổng phí nhượng tái bảo hiểm"
+            },
+            {
+                "thong_tin": "1. Bảo hiểm nhân thọ"
+            },
+            {
+                "thong_tin": "2. Bảo hiểm phi nhân thọ"
+            },
+            {
+                "thong_tin": "VIII. Chi bồi thường bảo hiểm gốc và chi trả đáo hạn"
+            },
+            {
+                "thong_tin": "1. Bảo hiểm nhân thọ"
+            },
+            {
+                "thong_tin": "2. Bảo hiểm phi nhân thọ"
+            },
+            {
+                "thong_tin": "IX. Chi bồi thường nhận tái bảo hiểm"
+            },
+            {
+                "thong_tin": "1. Bảo hiểm nhân thọ"
+            },
+            {
+                "thong_tin": "2. Bảo hiểm phi nhân thọ"
+            },
+            {
+                "thong_tin": "X. Thu bồi thường nhượng tái bảo hiểm"
+            },
+            {
+                "thong_tin": "1. Bảo hiểm nhân thọ"
+            },
+            {
+                "thong_tin": "2. Bảo hiểm phi nhân thọ"
+            },
+            {
+                "thong_tin": "XI. Doanh thu hoạt động tài chính"
+            },
+            {
+                "thong_tin": "1. Lãi tiền gửi và cho vay"
+            },
+            {
+                "thong_tin": "2. Lãi đầu tư trái phiếu, kỳ phiếu, tín phiếu"
+            },
+            {
+                "thong_tin": "3. Cổ tức được chia"
+            },
+            {
+                "thong_tin": "4. Lãi chênh lệch tỷ giá"
+            },
+            {
+                "thong_tin": "5. Lãi đầu tư, kinh doanh chứng khoán"
+            },
+            {
+                "thong_tin": "6. Doanh thu hoạt động tài chính khác"
+            },
+            {
+                "thong_tin": "XII. Chi phí hoạt động tài chính"
+            },
+            {
+                "thong_tin": "1. Lỗ chênh lệch tỷ giá"
+            },
+            {
+                "thong_tin": "2. Chi phí repo và lãi vay"
+            },
+            {
+                "thong_tin": "3. Trả lãi cho chủ hợp đồng"
+            },
+            {
+                "thong_tin": "4. Trích lập/ hoàn nhập dự phòng"
+            },
+            {
+                "thong_tin": "5. Chi phí hoạt động tài chính khác"
+            }
+        ]
+    }
+}

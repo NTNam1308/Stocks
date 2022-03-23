@@ -1,0 +1,135 @@
+// Here you can add other styles
+
+/*
+.card-header > .c-icon:first-child {
+  margin-right: 0.1rem;
+  margin-top: 0.1rem;
+  vertical-align: top;
+  width: 1.2rem;
+  height: 1.2rem;
+  font-size: 1.2rem;
+}
+*/
+.c-main {
+  padding-top: 10px !important;
+}
+.container-fluid {
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+.card-header:not(.content-center) > .c-icon:first-child {
+  margin-right: 0.1rem;
+  margin-top: 0.1rem;
+  vertical-align: top;
+  width: 1.2rem;
+  height: 1.2rem;
+  font-size: 1.2rem;
+}
+
+.click-file {
+  cursor: pointer;
+}
+
+#cropp-img-img {
+  max-width: 500px;
+  max-height: 500px;
+}
+tr {
+  &:hover {
+    td {
+      background-color: #8c58b3 !important;
+      color: white !important;
+      span {
+        color: white !important;
+        svg {
+          color: white !important;
+        }
+      }
+    }
+  }
+}
+.table-class tr td {
+  padding: 0 5px;
+  background-color: $table-accent-bg !important;
+}
+
+tr td {
+  padding: 0 0px;
+}
+.pre-wrap {
+  white-space: pre-wrap;
+}
+.thead-center {
+  thead {
+    th {
+      text-align: center;
+    }
+  }
+}
+.table-border-top-white {
+  thead {
+    th {
+      border-top: 2px solid #fff !important;
+      border-bottom: 2px solid #fff !important;
+    }
+  }
+  tbody {
+    border-top: 2px solid #fff;
+  }
+}
+.border-left-white {
+  border-left: 2px solid #fff;
+}
+.c-dark-theme {
+  .c-body {
+    background-color: #270d34;
+  }
+  .card {
+    background-color: #282933 !important;
+  }
+  .bg-purple {
+    background-color: #282933 !important;
+  }
+  .card-body {
+    background-color: #282933 !important;
+  }
+  td {
+    background-color: #282933 !important;
+  }
+  tr {
+    background-image: linear-gradient(180deg, rgb(91, 46, 129) 0%, rgb(66, 44, 90) 42%, rgb(40, 41, 51) 74%);
+  }
+  th {
+    background-image: linear-gradient(180deg, rgb(91, 46, 129) 0%, rgb(66, 44, 90) 42%, rgb(40, 41, 51) 74%);
+  }
+  .title-canslim {
+    background-image: linear-gradient(90deg, rgb(39, 13, 52) 20%, rgb(112, 48, 160) 50%, rgb(39, 13, 52) 80%);
+  }
+  .title-block {
+    background-image: linear-gradient(180deg, rgb(91, 46, 129) 0%, rgb(66, 44, 90) 42%, rgb(40, 41, 51) 74%);
+    padding: 10px;
+  }
+  .nav a {
+    color: #fff;
+  }
+  .nav a.nav-link.active {
+    color: #c396e8;
+  }
+}
+.table {
+  td {
+    padding: 0;
+    white-space: pre-wrap;
+  }
+}
+.big-text {
+  font-size: 10rem;
+}
+.text-red {
+  color: red;
+  font-weight: 800;
+}
+.text-blue {
+  color: blue;
+  font-weight: 800;
+}

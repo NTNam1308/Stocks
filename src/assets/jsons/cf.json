@@ -1,0 +1,1441 @@
+{
+  "nonbank": {
+    "items": [
+      {
+        "thong_tin": "I. Lưu chuyển tiền từ hoạt động kinh doanh",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "1. Lợi nhuận trước thuế",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "2. Điều chỉnh cho các khoản",
+        "style": "padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Khấu hao TSCĐ",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Các khoản dự phòng",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Lợi nhuận thuần từ đầu tư vào công ty liên kết",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Xóa sổ tài sản cố định (thuần)",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Lãi, lỗ chênh lệch tỷ giá hối đoái chưa thực hiện",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Lãi, lỗ từ thanh lý TSCĐ",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Lãi, lỗ từ hoạt động đầu tư",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Lãi tiền gửi",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Thu nhập lãi",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Chi phí lãi vay",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Các khoản chi trực tiếp từ lợi nhuận",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+        "style": "padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Tăng, giảm các khoản phải thu",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.14"
+      },
+      {
+        "thong_tin": "- Tăng, giảm hàng tồn kho",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.14"
+      },
+      {
+        "thong_tin": "- Tăng, giảm các khoản phải trả (Không kể lãi vay phải trả, thuế thu nhập doanh nghiệp phải nộp)",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.14"
+      },
+      {
+        "thong_tin": "- Tăng giảm chi phí trả trước",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.14"
+      },
+      {
+        "thong_tin": "- Tăng giảm tài sản ngắn hạn khác",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.14"
+      },
+      {
+        "thong_tin": "- Tiền lãi vay phải trả",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.14"
+      },
+      {
+        "thong_tin": "- Thuế thu nhập doanh nghiệp đã nộp",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.14"
+      },
+      {
+        "thong_tin": "- Tiền thu khác từ hoạt động kinh doanh",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.14"
+      },
+      {
+        "thong_tin": "- Tiền chi khác từ hoạt động kinh doanh",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.14"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "II. Lưu chuyển tiền từ hoạt động đầu tư",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "1. Tiền chi để mua sắm, xây dựng TSCĐ và các tài sản dài hạn khác",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "3. Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "4. Tiền thu hồi cho vay, bán lại các công cụ nợ của các đơn vị khác",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "5. Đầu tư góp vốn vào công ty liên doanh liên kết",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "6. Chi đầu tư ngắn hạn",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "7. Tiền chi đầu tư góp vốn vào đơn vị khác",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "8. Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "9. Lãi tiền gửi đã thu",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "10. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "11. Tiền chi mua lại phần vốn góp của các cổ đông thiểu số",
+        "style": "padding-left: 20px",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "III. Lưu chuyển tiền từ hoạt động tài chính",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",
+        "style": "padding-left: 20px",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "2. Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",
+        "style": "padding-left: 20px",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "3. Tiền vay ngắn hạn, dài hạn nhận được",
+        "style": "padding-left: 20px",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "4. Tiền chi trả nợ gốc vay",
+        "style": "padding-left: 20px",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "5. Tiền chi trả nợ thuê tài chính",
+        "style": "padding-left: 20px",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "6. Tiền chi khác từ hoạt động tài chính",
+        "style": "padding-left: 20px",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "7. Tiền chi trả từ cổ phần hóa",
+        "style": "padding-left: 20px",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "8. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",
+        "style": "padding-left: 20px",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "9. Vốn góp của các cổ đông thiểu số vào các công ty con",
+        "style": "padding-left: 20px",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "10. Chi tiêu quỹ phúc lợi xã hội",
+        "style": "padding-left: 20px",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "38"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần trong kỳ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "Tiền và tương đương tiền đầu kỳ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+        "is_italics": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "Tiền và tương đương tiền cuối kỳ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      }
+    ]
+  },
+  "bank": {
+    "items": [
+      {
+        "thong_tin": "I. Lưu chuyển tiền từ hoạt động kinh doanh",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "- Thu nhập lãi và các khoản thu nhập tương tự nhận được",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "- Chi phí lãi và các chi phí tương tự đã trả",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "- Thu nhập từ hoạt động dịch vụ nhận được",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "- Chênh lệch số tiền thực thu/ thực chi từ hoạt động kinh doanh (ngoại tệ, vàng bạc, chứng khoán)",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "- Thu nhập khác",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "- Tiền thu các khoản nợ đã được xử lý xóa, bù đắp bằng nguồn rủi ro",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "- Tiền chi trả cho nhân viên và hoạt động quản lý, công vụ",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "- Tiền thuế thu nhập thực nộp trong kỳ",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần từ hoạt động kinh doanh trước những thay đổi về tài sản và vốn lưu động",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "1. Những thay đổi về tài sản hoạt động",
+        "style": "padding-left: 20px",
+        "is_header": "true",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- (Tăng)/Giảm các khoản tiền, vàng gửi và cho vay các TCTD khác",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- (Tăng)/Giảm các khoản về kinh doanh chứng khoán",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- (Tăng)/Giảm các công cụ tài chính phái sinh và các tài sản tài chính khác",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- (Tăng)/Giảm các khoản cho vay khách hàng",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- (Tăng)/Giảm nguồn dự phòng để bù bắp tổn thất các khoản",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- (Tăng)/Giảm khác về tài sản hoạt động",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "2. Những thay đổi về công nợ hoạt động",
+        "is_header": "true",
+        "style": "padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Tăng/(Giảm) các khoản nợ chính phủ và NHNN",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.17"
+      },
+      {
+        "thong_tin": "- Tăng/(Giảm) các khoản tiền gửi, tiền vay các TCTD",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.17"
+      },
+      {
+        "thong_tin": "- Tăng/(Giảm) tiền gửi của khách hàng",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.17"
+      },
+      {
+        "thong_tin": "- Tăng/(Giảm) phát hành giấy tờ có giá",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.17"
+      },
+      {
+        "thong_tin": "- Tăng/(Giảm) vốn tài trợ, ủy thác đầu tư, cho vay mà TCTD chịu rủi ro",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.17"
+      },
+      {
+        "thong_tin": "- Tăng/(Giảm) các công cụ tài chính phái sinh và các khoản nợ tài chính khác",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.17"
+      },
+      {
+        "thong_tin": "- Tăng/(Giảm) khác về công nợ hoạt động",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.17"
+      },
+      {
+        "thong_tin": "- Chi từ các quỹ của TCTD",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.17"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "II. Lưu chuyển tiền từ hoạt động đầu tư",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "- Tiền giảm do bán công ty con",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "- Mua sắm TSCĐ",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "- Tiền thu từ thanh lý, nhượng bán TSCĐ",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "- Tiền chi từ thanh lý, nhượng bán TSCĐ",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "- Mua sắm bất động sản đầu tư",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "- Tiền thu từ bán, thanh lý bất động sản đầu tư",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "- Tiền chi ra do bán, thanh lý bất động sản đầu tư",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "- Tiền chi đầu tư, góp vốn vào các đơn vị khác",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "- Tiền thu đầu tư, góp vốn vào các đơn vị khác",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "- Tiền thu cổ tức và lợi nhuận được chia từ các khoản đầu tư, góp vốn dài hạn",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "27"
+      },
+      {
+        "thong_tin": "III. Lưu chuyển tiền từ hoạt động tài chính",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "- Tăng vốn cổ phần từ góp vốn và phát hành cổ phiếu",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "39"
+      },
+      {
+        "thong_tin": "- Tiền thu từ phát hành giấy tờ có giá dài hạn có đủ điều kiện tính vào vốn tự có và các khoản vốn vay dài hạn khác",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "39"
+      },
+      {
+        "thong_tin": "- Tiền chi thanh toán giấy tờ có giá dài hạn có đủ điều kiện tính vào  vốn tự có và các khoản vốn vay dài hạn khác",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "39"
+      },
+      {
+        "thong_tin": "- Cổ tức trả cho cổ đông, lợi nhuận đã chia",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "39"
+      },
+      {
+        "thong_tin": "- Tiền chi ra mua cổ phiếu ngân quỹ",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "39"
+      },
+      {
+        "thong_tin": "- Tiền thu được do bán cổ phiếu ngân quỹ",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "39"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền từ hoạt động tài chính",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "39"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần trong kỳ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "Tiền và tương đương tiền đầu kỳ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+        "is_italics": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "Tiền và tương đương tiền cuối kỳ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      }
+    ]
+  },
+  "stock": {
+    "items": [
+      {
+        "thong_tin": "I. LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "1. Lợi nhuận trước Thuế Thu nhập doanh nghiệp",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "2. Điều chỉnh cho các khoản:",
+        "style": "padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Khấu hao TSCĐ",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Các khoản dự phòng",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "(- Lãi) hoặc (+ lỗ) chênh lệch tỷ giá hối đoái chưa thực hiện",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Chi phí phải trả, chi phí trả trước",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Lãi, lỗ từ hoạt động đầu tư (đầu tư công ty con, liên doanh, liên kết)",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Dự thu tiền lãi",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "- Các khoản điều chỉnh khác",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.2"
+      },
+      {
+        "thong_tin": "3. Tăng các chi phí phi tiền tệ",
+        "style": "padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Lỗ đánh giá giá trị các tài sản tài chính ghi nhận thông qua kết quả kinh doanh",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- Lỗ đánh giá giá trị các công nợ tài chính ghi nhận thông qua kết quả kinh doanh",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- Lỗ đánh giá giá trị các công cụ tài chính phái sinh",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- Lỗ từ thanh lý các tài sản tài chính sẵn sàng để bán",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- Suy giảm giá trị của các tài sản tài chính sẵn sàng để bán",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- Lỗ đánh giá giá trị các công cụ tài chính phái sinh cho mục đích phòng ngừa rủi ro",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- Lỗ từ thanh lý tài sản cố định",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- Suy giảm giá trị của các tài sản cố định",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "- Lỗ từ thanh lý các khoản đầu tư vào công ty con và công ty liên doanh, liên kết",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.10"
+      },
+      {
+        "thong_tin": "4. Giảm các doanh thu phi tiền tệ",
+        "style": "padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Lãi đánh giá giá trị các tài sản tài chính ghi nhận thông qua kết quả kinh doanh",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.20"
+      },
+      {
+        "thong_tin": "- Lãi đánh giá giá trị các công nợ tài chính thông qua kết quả kinh doanh",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.20"
+      },
+      {
+        "thong_tin": "- Lãi từ thanh lý các tài sản tài chính sẵn sàng để bán",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.20"
+      },
+      {
+        "thong_tin": "- Hoàn nhập suy giảm giá trị của các tài sản tài chính sẵn sàng để bán",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.20"
+      },
+      {
+        "thong_tin": "- Lãi đánh giá giá trị các công cụ tài chính phái sinh cho mục đích phòng ngừa",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.20"
+      },
+      {
+        "thong_tin": "- Lãi từ thanh lý các khoản cho vay và phải thu",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.20"
+      },
+      {
+        "thong_tin": "- Hoàn nhập chi phí dự phòng",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.20"
+      },
+      {
+        "thong_tin": "- Lãi từ thanh lý tài sản cố định, BĐSĐT",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.20"
+      },
+      {
+        "thong_tin": "- Lãi từ thanh lý các khoản đầu tư vào công ty con và công ty liên doanh, liên kết",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.20"
+      },
+      {
+        "thong_tin": "5. Thay đổi tài sản và nợ phải trả hoạt động",
+        "style": "padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Tăng (giảm) tài sản tài chính ghi nhận thông qua lãi lỗ",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "- Tăng (giảm) các khoản đầu tư giữ đến ngày đáo hạn",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "- Tăng (giảm) các khoản cho vay",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "- Tăng (giảm) tài sản tài chính sẵn sàng để bán",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "- Tăng (giảm) các tài sản khác",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "- Tăng (giảm) các khoản phải thu",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "- Tăng (giảm) vay và nợ thuê tài sản tài chính",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "- Tăng (giảm) vay tài sản tài chính",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "- Tăng (giảm) Trái phiếu chuyển đổi - Cấu phần nợ",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "- Tăng (giảm) Trái phiếu phát hành",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "- Tăng (giảm) vay Quỹ Hỗ trợ thanh toán",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.30"
+      },
+      {
+        "thong_tin": "6. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+        "style": "padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "(-) Tăng, (+) giảm phải thu bán các tài sản tài chính",
+        "style": "padding-left: 40px",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "(-) Tăng, (+) giảm phải thu tiền lãi các tài sản tài chính",
+        "style": "padding-left: 40px",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "(-) Tăng, (+) giảm các khoản phải thu các dịch vụ CTCK cung cấp",
+        "style": "padding-left: 40px",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "(-) Tăng, (+) giảm các khoản phải thu về lỗi giao dịch chứng khoán",
+        "style": "padding-left: 40px",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "(-) Tăng, (+) giảm các khoản phải thu khác",
+        "style": "padding-left: 40px",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "(+) Tăng, (-) giảm phải trả cho người bán",
+        "style": "padding-left: 40px",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "(+) Tăng, (-) giảm phải trả Tổ chức phát hành chứng khoán",
+        "style": "padding-left: 40px",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "(+) Tăng, (-) giảm thuế và các khoản phải nộp Nhà nước",
+        "style": "padding-left: 40px",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "(+) Tăng, (-) giảm phải trả, phải nộp khác",
+        "style": "padding-left: 40px",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "(+) Tăng, (-) giảm Thuế TNDN CTCK đã nộp",
+        "style": "padding-left: 40px",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "- Tiền thu khác từ hoạt động kinh doanh",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "- Tiền chi khác cho hoạt động kinh doanh",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "0.42"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "II. Lưu chuyển tiền từ hoạt động đầu tư",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "1. Tiền chi để mua sắm, xây dựng TSCĐ, BĐSĐT và các tài sản khác",
+        "style": "padding-left: 20px",
+        "key_parent": "56"
+      },
+      {
+        "thong_tin": "2. Tiền thu từ thanh lý, nhượng bán TSCĐ, BĐSĐT và các tài sản khác",
+        "style": "padding-left: 20px",
+        "key_parent": "56"
+      },
+      {
+        "thong_tin": "3. Tiền chi đầu tư vốn vào công ty con, công ty liên doanh, liên kết và đầu tư khác",
+        "style": "padding-left: 20px",
+        "key_parent": "56"
+      },
+      {
+        "thong_tin": "4. Tiền thanh lý các khoản đầu tư vào công ty con, công ty liên doanh, liên kết và đầu tư khác",
+        "style": "padding-left: 20px",
+        "key_parent": "56"
+      },
+      {
+        "thong_tin": "5. Tiền thu về cổ tức và lợi nhuận được chia",
+        "style": "padding-left: 20px",
+        "key_parent": "56"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "56"
+      },
+      {
+        "thong_tin": "III. Lưu chuyển tiền từ hoạt động tài chính",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "1. Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "2. Tiền chi trả vốn góp cho chủ sở hữu, mua lại cổ phiếu quỹ",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "3. Tiền vay gốc",
+        "style": "padding-left: 20px",
+        "key_parent": "63",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "3.1. Tiền vay Quỹ Hỗ trợ thanh toán",
+        "style": "padding-left: 40px",
+        "key_parent": "63.66"
+      },
+      {
+        "thong_tin": "3.2. Tiền vay khác",
+        "style": "padding-left: 40px",
+        "key_parent": "63.66"
+      },
+      {
+        "thong_tin": "4. Tiền chi trả nợ gốc vay",
+        "style": "padding-left: 20px",
+        "key_parent": "63",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "4.1. Tiền chi trả gốc vay Quỹ Hỗ trợ thanh toán",
+        "style": "padding-left: 40px",
+        "key_parent": "63.69"
+      },
+      {
+        "thong_tin": "4.2. Tiền chi trả nợ gốc vay tài sản tài chính",
+        "style": "padding-left: 40px",
+        "key_parent": "63.69"
+      },
+      {
+        "thong_tin": "4.3. Tiền chi trả gốc nợ vay khác",
+        "style": "padding-left: 40px",
+        "key_parent": "63.69"
+      },
+      {
+        "thong_tin": "5. Tiền chi trả nợ thuê tài chính",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "Lưu chuyển tiền thuần từ hoạt động tài chính",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "IV. Tăng/giảm tiền thuần trong kỳ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "V. Tiền và các khoản tương đương tiền đầu kỳ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "Tiền gửi ngân hàng đầu kỳ",
+        "style": "padding-left: 20px",
+        "key_parent": "77",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Tiền gửi ngân hàng cho hoạt động CTCK",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "77.78"
+      },
+      {
+        "thong_tin": "Các khoản tương đương tiền",
+        "style": "padding-left: 20px",
+        "key_parent": "77"
+      },
+      {
+        "thong_tin": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+        "style": "padding-left: 20px",
+        "key_parent": "77"
+      },
+      {
+        "thong_tin": "VI. Tiền và các khoản tương đương tiền cuối kỳ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "Tiền gửi ngân hàng cuối kỳ",
+        "style": "padding-left: 20px",
+        "key_parent": "82",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "- Tiền gửi ngân hàng cho hoạt động CTCK",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "82.83"
+      },
+      {
+        "thong_tin": "Các khoản tương đương tiền",
+        "style": "padding-left: 20px",
+        "key_parent": "82"
+      },
+      {
+        "thong_tin": "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+        "style": "padding-left: 20px",
+        "key_parent": "82"
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "thong_tin":"I. Lưu chuyển tiền từ hoạt động kinh doanh",
+        "is_header":"true",
+        "is_bold":"true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+        {
+        "thong_tin":"1. Lợi nhuận trước thuế",
+        "style":"padding-left: 20px",
+        "key_parent": "0"
+      },
+        {
+        "thong_tin":"2. Điều chỉnh qua các khoản",
+        "style":"padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+        {
+        "thong_tin":"- Khấu hao tài sản cố định",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.2"
+      },
+        {
+        "thong_tin":"- Các khoản dự phòng",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.2"
+      },
+        {
+        "thong_tin":"- Lãi, lỗ chênh lệch tỷ giá hối đoái",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.2"
+      },
+        {
+        "thong_tin":"- Lãi lỗ từ hoạt động đầu tư",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.2"
+      },
+        {
+        "thong_tin":"- Chi phí Lãi vay",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.2"
+      },
+        {
+        "thong_tin":"3. Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn lưu động",
+        "style":"padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+        {
+        "thong_tin":"- Tăng giảm các khoản phải thu",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.8",
+        "is_parent": true,
+        "is_show_child": false
+      },
+        {
+        "thong_tin":"Phải thu hoạt động BH gốc",
+        "style":"padding-left: 60px",
+        "is_italics":"true",
+        "key_parent": "0.8.9"
+      },
+        {
+        "thong_tin":"Phải thu hoạt động BH Nhận Tái",
+        "style":"padding-left: 60px",
+        "is_italics":"true",
+        "key_parent": "0.8.9"
+      },
+        {
+        "thong_tin":"Phải thu hoạt động BH Nhượng Tái",
+        "style":"padding-left: 60px",
+        "is_italics":"true",
+        "key_parent": "0.8.9"
+      },
+        {
+        "thong_tin":"Phải thu hoạt động khác",
+        "style":"padding-left: 60px",
+        "is_italics":"true",
+        "key_parent": "0.8.9"
+      },
+        {
+        "thong_tin":"Phải thu/ trả đơn vị nội bộ",
+        "style":"padding-left: 60px",
+        "key_parent": "0.8.9"
+      },
+        {
+        "thong_tin":"- Tăng giảm hàng tồn kho",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.8"
+      },
+        {
+        "thong_tin":"- Tăng giảm các khoản phải trả (không kể Lãi vay phải trả, thuế thu nhập phải nộp)",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.8",
+        "is_parent": true,
+        "is_show_child": false
+      },
+        {
+        "thong_tin":"Phải trả hoạt động BH Gốc",
+        "style":"padding-left: 60px",
+        "is_italics":"true",
+        "key_parent": "0.8.16"
+      },
+        {
+        "thong_tin":"Phải trả hoạt động BH Nhận Tái",
+        "style":"padding-left: 60px",
+        "is_italics":"true",
+        "key_parent": "0.8.16"
+      },
+        {
+        "thong_tin":"Phải trả hoạt động BH Nhượng Tái",
+        "style":"padding-left: 60px",
+        "is_italics":"true",
+        "key_parent": "0.8.16"
+      },
+        {
+        "thong_tin":"Phải trả hoạt động khác",
+        "style":"padding-left: 60px",
+        "is_italics":"true",
+        "key_parent": "0.8.16"
+      },
+        {
+        "thong_tin":"Phải trả CBCNV",
+        "style":"padding-left: 60px",
+        "is_italics":"true",
+        "key_parent": "0.8.16"
+      },
+        {
+        "thong_tin":"- Tăng giảm chi phí trả trước",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.8"
+      },
+        {
+        "thong_tin":"- Tiền lãi vay đã trả",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.8"
+      },
+        {
+        "thong_tin":"- Thuế thu nhập doanh nghiệp đã nộp",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.8"
+      },
+        {
+        "thong_tin":"- Tiền thu khác từ hoạt động kinh doanh",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.8"
+      },
+        {
+        "thong_tin":"- Tiền chi khác từ hoạt động kinh doanh",
+        "style":"padding-left: 40px",
+        "is_italics":"true",
+        "key_parent": "0.8"
+      },
+        {
+        "thong_tin":"Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+        "style":"padding-left: 20px",
+        "is_bold":"true",
+        "key_parent": "0"
+      },
+        {
+        "thong_tin":"II. Lưu chuyển tiền từ hoạt động đầu tư",
+        "is_bold":"true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+        {
+        "thong_tin":"1. Tiền chi để mua sắm, xây dựng TSCĐ và các TS dài hạn khác",
+        "style":"padding-left: 20px",
+        "key_parent": "28"
+      },
+        {
+        "thong_tin":"2. Tiền thu từ thanh lý, nhượng bán TSCĐ và các TS dài hạn khác",
+        "style":"padding-left: 20px",
+        "key_parent": "28"
+      },
+        {
+        "thong_tin":"3. Tiền chi cho vay, mua các công cụ nợ của các đơn vị khác ",
+        "style":"padding-left: 20px",
+        "key_parent": "28"
+      },
+        {
+        "thong_tin":"4. Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
+        "style":"padding-left: 20px",
+        "key_parent": "28"
+      },
+        {
+        "thong_tin":"5. Tiền chi đầu tư góp vốn vào đơn vị khác",
+        "style":"padding-left: 20px",
+        "key_parent": "28"
+      },
+        {
+        "thong_tin":"6. Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+        "style":"padding-left: 20px",
+        "key_parent": "28"
+      },
+        {
+        "thong_tin":"7. Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+        "style":"padding-left: 20px",
+        "key_parent": "28"
+      },
+        {
+        "thong_tin":"Lưu chuyển tiền thuần từ hoạt động đầu tư",
+        "style":"padding-left: 20px",
+        "is_bold":"true",
+        "key_parent": "28"
+      },
+        {
+        "thong_tin":"III. Lưu chuyển tiền từ hoạt động tài chính",
+        "is_bold":"true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+        {
+        "thong_tin":"1. Tiền thu từ phát hành cổ phiếu",
+        "style":"padding-left: 20px",
+        "key_parent": "37"
+      },
+        {
+        "thong_tin":"2. Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",
+        "style":"padding-left: 20px",
+        "key_parent": "37"
+      },
+        {
+        "thong_tin":"3. Tiền vay ngắn hạn, dài hạn nhận được",
+        "style":"padding-left: 20px",
+        "key_parent": "37"
+      },
+        {
+        "thong_tin":"4. Tiền chi trả nợ gốc vay",
+        "style":"padding-left: 20px",
+        "key_parent": "37"
+      },
+        {
+        "thong_tin":"5. Tiền chi trả nợ thuê tài chính",
+        "style":"padding-left: 20px",
+        "key_parent": "37"
+      },
+        {
+        "thong_tin":"6. Cổ tức, lợi nhuận đã trả cho chủ sở hữu",
+        "style":"padding-left: 20px",
+        "key_parent": "37"
+      },
+        {
+        "thong_tin":"Lưu chuyển tiền thuần từ hoạt động tài chính",
+        "is_bold":"true",
+        "style":"padding-left: 20px",
+        "key_parent": "37"
+      },
+        {
+        "thong_tin":"Lưu chuyển tiền thuần trong kỳ",
+        "is_bold":"true",
+        "is_root": true,
+        "is_show_child": true
+      },
+        {
+        "thong_tin":"Tiền và tương đương tiền đầu kỳ",
+        "is_bold":"true",
+        "is_root": true,
+        "is_show_child": true
+      },
+        {
+        "thong_tin":"Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+        "is_root": true,
+        "is_show_child": true
+      },
+        {
+        "thong_tin":"Tiền và tương đương tiền cuối kỳ",
+        "is_bold":"true",
+        "is_root": true,
+        "is_show_child": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+/dist
+/public/js/datafeeds/udf/dist
+/public/js/datafeeds/udf/node_modules
+/node_modules
+npm-debug.log
+yarn-error.log
+.env
+env.json

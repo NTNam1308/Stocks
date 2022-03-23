@@ -1,0 +1,4403 @@
+{
+  "nonbank": {
+    "items": {
+      "quarter": [
+        {
+          "thong_tin": "Định giá",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Giá thị trường (Q)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Vốn hóa (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Giá trị doanh nghiệp - EV (Q)",
+          "type": "money",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "EPS (Q)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng EPS (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "BVPS (Q)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng BVPS (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "PE (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "PB (Q)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "EV/EBIT (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "EV/EBITDA (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Doanh thu và Lợi nhuận",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Doanh thu thuần (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Doanh thu thuần (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Lợi nhuận Gộp (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EBIT (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EBITDA (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận trước thuế -EBT (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận sau thuế (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Hiệu quả",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận gộp (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBIT (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBITDA (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBT (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận ròng (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROE (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROIC (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROA (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Dòng tiền từ hoạt động kinh doanh chính (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "OCF/Lợi nhuận thuần (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Dòng tiền tự do - FCF (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Nợ vay tài chính dài hạn (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Thanh toán",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỉ lệ thanh toán hiện hành (Q)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ lệ thanh toán nhanh (Q)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tổng Nợ/Vốn chủ sở hữu (Q)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Quản lý tài sản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Vòng quay hàng tồn kho (Q)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Số ngày bình quân vòng quay hàng tồn kho (Q)",
+          "don_vi": "NGÀY"
+        },
+        {
+          "thong_tin": "Vòng quay khoản phải thu (Q)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Số ngày bình quân vòng quay khoản phải thu (Q)",
+          "don_vi": "NGÀY"
+        },
+        {
+          "thong_tin": "Vòng quay khoản phải trả (Q)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Số ngày bình quân vòng quay các khoản phải trả (Q)",
+          "don_vi": "NGÀY"
+        },
+        {
+          "thong_tin": "Phân tích chi tiết Dupont ",
+          "color": "red"
+        },
+        {
+          "thong_tin": "ROA (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ suất lợi nhuận (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROE (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Đòn bẩy tài chính (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Biên EBIT (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng lãi suất (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng thuế (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Cơ cấu tài sản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tài sản dài hạn/Tổng số tài sản (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Cơ cấu nguồn vốn",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Nợ phải trả/Tổng nguồn vốn (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "3 LẰN RANH ĐỎ (BẤT ĐỘNG SẢN)",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ Nợ/TTS (<= 0.7)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỷ lệ Nợ/VCSH (<= 1)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỷ lệ Thanh toán (>=1)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        }
+      ],
+      "year": [
+        {
+          "thong_tin": "Doanh thu và Lợi nhuận",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Doanh thu thuần (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Doanh thu thuần (Y)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Lợi nhuận Gộp (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EBIT (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EBITDA (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận trước thuế - EBT (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận sau thuế (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (Y)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Hiệu quả",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận gộp (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBIT (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBITDA (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBT (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận ròng (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROE (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROIC (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROA (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Dòng tiền từ hoạt động kinh doanh chính (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "OCF/Lợi nhuận thuần (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Dòng tiền tự do - FCF (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Nợ vay tài chính dài hạn (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Thanh toán",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỉ lệ thanh toán hiện hành (Y)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ lệ thanh toán nhanh (Y)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tổng Nợ/Vốn chủ sở hữu (Y)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Quản lý tài sản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Vòng quay hàng tồn kho (Y)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Số ngày bình quân vòng quay hàng tồn kho (Y)",
+          "don_vi": "NGÀY"
+        },
+        {
+          "thong_tin": "Vòng quay khoản phải thu (Y)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Số ngày bình quân vòng quay khoản phải thu (Y)",
+          "don_vi": "NGÀY"
+        },
+        {
+          "thong_tin": "Vòng quay khoản phải trả (Y)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Số ngày bình quân vòng quay các khoản phải trả (Y)",
+          "don_vi": "NGÀY"
+        },
+        {
+          "thong_tin": "Phân tích chi tiết Dupont",
+          "color": "red"
+        },
+        {
+          "thong_tin": "ROA (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ suất lợi nhuận (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROE (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Đòn bẩy tài chính (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Biên EBIT (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng lãi suất (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng thuế (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Cơ cấu tài sản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tài sản dài hạn/Tổng số tài sản  (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Cơ cấu nguồn vốn",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Nợ phải trả/Tổng nguồn vốn (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "3 LẰN RANH ĐỎ (BẤT ĐỘNG SẢN)",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ Nợ/TTS (<= 0.7)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỷ lệ Nợ/VCSH (<= 1)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỷ lệ Thanh toán (>=1)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        }
+      ],
+      "ttm": [
+        {
+          "thong_tin": "Định giá",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Giá thị trường (TTM)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Vốn hóa (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Giá trị doanh nghiệp - EV (TTM)",
+          "type": "money",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "EPS (TTM)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng EPS (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "BVPS (TTM)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng BVPS (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "PE (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "PB (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "EV/EBIT (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "EV/EBITDA (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Doanh thu và Lợi nhuận",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Doanh thu thuần (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Doanh thu thuần (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Lợi nhuận Gộp (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EBIT (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EBITDA (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận trước thuế -EBT (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận sau thuế (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Hiệu quả",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận gộp (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBIT (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBITDA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBT (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận ròng (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROE (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROIC (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Dòng tiền từ hoạt động kinh doanh chính (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "OCF/Lợi nhuận thuần (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Dòng tiền tự do - FCF (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Nợ vay tài chính dài hạn (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Thanh toán",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỉ lệ thanh toán hiện hành (TTM)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ lệ thanh toán nhanh (TTM)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tổng Nợ/Vốn chủ sở hữu (TTM)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Quản lý tài sản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Vòng quay hàng tồn kho (TTM)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Số ngày bình quân vòng quay hàng tồn kho (TTM)",
+          "don_vi": "NGÀY"
+        },
+        {
+          "thong_tin": "Vòng quay khoản phải thu (TTM)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Số ngày bình quân vòng quay khoản phải thu (TTM)",
+          "don_vi": "NGÀY"
+        },
+        {
+          "thong_tin": "Vòng quay khoản phải trả (TTM)",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Số ngày bình quân vòng quay các khoản phải trả (TTM)",
+          "don_vi": "NGÀY"
+        },
+        {
+          "thong_tin": "Phân tích chi tiết Dupont ",
+          "color": "red"
+        },
+        {
+          "thong_tin": "ROA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ suất lợi nhuận (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROE (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Đòn bẩy tài chính (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Biên EBIT (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng lãi suất (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng thuế (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Cơ cấu tài sản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tài sản dài hạn/Tổng số tài sản (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Cơ cấu nguồn vốn",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Nợ phải trả/Tổng nguồn vốn (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        }
+      ]
+    }
+  },
+  "bank": {
+    "items": {
+      "quarter": [
+        {
+          "thong_tin": "Định giá",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Giá thị trường (Q)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Vốn hóa (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EPS (Q)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng EPS (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "BVPS (Q)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng BVPS (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "PE (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "PB (Q)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Doanh thu và Lợi nhuận",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Thu nhập lãi thuần (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Thu nhập lãi thuần (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Lãi/lỗ thuần từ hoạt động thu phí dịch vụ (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lãi/lỗ thuần từ hoạt động đầu tư (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tổng doanh thu hoạt động (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Chi phí hoạt động (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ HĐKD trước chi phí dự phòng (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận sau thuế (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Hiệu quả",
+          "color": "red",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "ROEA (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROAA (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "YOEA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "COF (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "NIM (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "CIR (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ CASA (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Thanh khoản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Dư nợ cho vay/Tổng tài sản Có (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vốn chủ sở hữu/Tổng vốn huy động (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vốn chủ sở hữu/Tổng tài sản Có (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Nợ xấu",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ bao nợ xấu (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ nợ xấu- NPL  (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Lãi dự thu (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu An toàn vốn",
+          "color": "red",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Hệ số CAR (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "LDR (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Chất lượng tài sản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ dự phòng (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tài sản Có sinh lãi/Tổng tài sản Có (Q)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        }
+      ],
+      "year": [
+        {
+          "thong_tin": "Doanh thu và Lợi nhuận",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Thu nhập lãi thuần (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Thu nhập lãi thuần (Y)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Lãi/lỗ thuần từ hoạt động thu phí dịch vụ (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lãi/lỗ thuần từ hoạt động đầu tư (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tổng doanh thu hoạt động (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Chi phí hoạt động (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ HĐKD trước chi phí dự phòng (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận sau thuế (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (Y)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Hiệu quả",
+          "color": "red",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "ROEA (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROAA (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "YOEA (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "COF (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "NIM (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "CIR (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ CASA (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Thanh khoản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Dư nợ cho vay/Tổng tài sản Có (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vốn chủ sở hữu/Tổng vốn huy động (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vốn chủ sở hữu/Tổng tài sản Có (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Nợ xấu",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ bao nợ xấu (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ nợ xấu- NPL (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Lãi dự thu (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu An toàn vốn",
+          "color": "red",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Hệ số CAR (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "LDR (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Chất lượng tài sản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ dự phòng (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tài sản Có sinh lãi/Tổng tài sản Có (Y)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        }
+      ],
+      "ttm": [
+        {
+          "thong_tin": "Định giá",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Giá thị trường",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Vốn hóa",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EPS (TTM)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng EPS (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "BVPS (TTM)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng BVPS (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "PE (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "PB (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Doanh thu và Lợi nhuận",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Thu nhập lãi thuần (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Thu nhập lãi thuần (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Lãi/lỗ thuần từ hoạt động thu phí dịch vụ (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lãi/lỗ thuần từ hoạt động đầu tư (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tổng doanh thu hoạt động (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Chi phí hoạt động (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ HĐKD trước chi phí dự phòng (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận sau thuế (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Hiệu quả",
+          "color": "red",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "ROEA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROAA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "YOEA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "COF (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "NIM (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "CIR (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ CASA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Thanh khoản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Dư nợ cho vay/Tổng tài sản Có (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vốn chủ sở hữu/Tổng vốn huy động (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vốn chủ sở hữu/Tổng tài sản Có (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Nợ xấu",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ bao nợ xấu (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ nợ xấu- NPL  (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Lãi dự thu (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu An toàn vốn",
+          "color": "red",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Hệ số CAR (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "LDR (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Chất lượng tài sản",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ dự phòng (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tài sản Có sinh lãi/Tổng tài sản Có (TTM)",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        }
+      ]
+    }
+  },
+  "stock": {
+    "items": {
+      "quarter": [
+        {
+          "thong_tin": "Định giá",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Giá thị trường (Q)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Vốn hóa (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Giá trị doanh nghiệp - EV (Q)",
+          "type": "money",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "EPS (Q)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng EPS (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "BVPS (Q)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng BVPS (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "PE (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "PB (Q)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "EV/EBIT (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Doanh thu và Lợi nhuận",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Cộng doanh thu hoạt động (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Cộng doanh thu hoạt động (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động môi giới (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động môi giới (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động cho vay (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động cho vay (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động bảo lãnh (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động bảo lãnh (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động tự doanh (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động tự doanh (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Cộng lợi nhuận gộp hoạt động (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EBIT (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận trước thuế (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận sau thuế (Q)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (Q)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Hiệu quả",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động môi giới (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động cho vay (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động bảo lãnh (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động tự doanh (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận gộp (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBIT (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBT (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận sau thuế (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROAA (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROEA (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu An toàn",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ dự phòng suy giảm giá trị tài sản tài chính (Q)",
+          "type": "",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ dự phòng suy giảm giá trị khoản phải thu (Q)",
+          "type": "",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ Dư nợ margin/VCSH (Q)",
+          "type": "",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Thanh toán",
+          "type": "percent",
+          "prefixText": "",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỉ lệ thanh toán hiện hành (Q)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ lệ D/E (Q)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Phân tích chi tiết Dupont ",
+          "color": "red"
+        },
+        {
+          "thong_tin": "ROAA (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (Q)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ suất lợi nhuận (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROE (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Đòn bẩy tài chính (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Biên EBIT (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng lãi suất (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng thuế (Q)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Cơ cấu tài sản",
+          "type": "percent",
+          "prefixText": "",
+          "color": "red"
+        },
+        {
+          "thong_tin": "TSNH/TTS (Q)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "TSDH/TTS (Q)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Cơ cấu nguồn vốn",
+          "type": "percent",
+          "prefixText": "",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Nợ phải trả/Tổng nguồn vốn (Q)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (Q)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        }
+      ],
+      "year": [
+        {
+          "thong_tin": "Doanh thu và Lợi nhuận",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Cộng doanh thu hoạt động (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Cộng doanh thu hoạt động (Y)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động môi giới (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động môi giới (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động cho vay (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động cho vay (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động bảo lãnh (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động bảo lãnh (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động tự doanh (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động tự doanh (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Cộng lợi nhuận gộp hoạt động (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EBIT (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận trước thuế (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận sau thuế (Y)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (Y)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Hiệu quả",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động môi giới (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động cho vay (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động bảo lãnh (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động tự doanh (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận gộp (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBIT (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBT (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận sau thuế (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROAA (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROEA (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu An toàn",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ dự phòng suy giảm giá trị tài sản tài chính (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ dự phòng suy giảm giá trị khoản phải thu (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ Dư nợ margin/VCSH (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Thanh toán",
+          "type": "percent",
+          "prefixText": "",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỉ lệ thanh toán hiện hành (Y)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ lệ D/E (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Phân tích chi tiết Dupont ",
+          "color": "red"
+        },
+        {
+          "thong_tin": "ROAA (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (Y)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ suất lợi nhuận (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROE (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Đòn bẩy tài chính (Assets/Equity) (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (Sales/Assets) (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Biên EBIT (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng lãi suất (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng thuế (Y)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Cơ cấu tài sản",
+          "type": "percent",
+          "prefixText": "",
+          "color": "red"
+        },
+        {
+          "thong_tin": "TSNH/TTS (Y)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "TSDH/TTS (Y)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Cơ cấu nguồn vốn",
+          "type": "percent",
+          "prefixText": "",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Nợ phải trả/Tổng nguồn vốn (Y)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (Y)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        }
+      ],
+      "ttm": [
+        {
+          "thong_tin": "Định giá",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Giá thị trường",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Vốn hóa",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Giá trị doanh nghiệp - EV (TTM)",
+          "type": "money",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "EPS (TTM)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng EPS (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "BVPS (TTM)",
+          "type": "",
+          "don_vi": "VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng BVPS (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "PE (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "PB (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "EV/EBIT (TTM)",
+          "type": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Doanh thu và Lợi nhuận",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Cộng doanh thu hoạt động (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Cộng doanh thu hoạt động (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động môi giới (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động môi giới (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động cho vay (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động cho vay (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động bảo lãnh (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động bảo lãnh (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Doanh thu từ hoạt động tự doanh (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận từ hoạt động tự doanh (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Cộng lợi nhuận gộp hoạt động (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "EBIT (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận trước thuế (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Lợi nhuận sau thuế (TTM)",
+          "type": "money",
+          "don_vi": "tỷ VNĐ"
+        },
+        {
+          "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (TTM)",
+          "type": "percent",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Hiệu quả",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động môi giới (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động cho vay (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động bảo lãnh (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận từ hoạt động tự doanh (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận gộp (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBIT (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên EBT (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Biên lợi nhuận sau thuế (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROAA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROEA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu An toàn",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỷ lệ dự phòng suy giảm giá trị tài sản tài chính (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ dự phòng suy giảm giá trị khoản phải thu (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Tỷ lệ Dư nợ margin/VCSH (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Chỉ tiêu Thanh toán",
+          "type": "percent",
+          "prefixText": "",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Tỉ lệ thanh toán hiện hành (TTM)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ lệ D/E (TTM)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Phân tích chi tiết Dupont ",
+          "color": "red"
+        },
+        {
+          "thong_tin": "ROAA (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (TTM)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Tỉ suất lợi nhuận (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "ROE (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Đòn bẩy tài chính (TTM)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Vòng quay tài sản (TTM)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Biên EBIT (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng lãi suất (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Gánh nặng thuế (TTM)",
+          "type": "percent",
+          "prefixText": "",
+          "postText": "%",
+          "don_vi": "%"
+        },
+        {
+          "thong_tin": "Cơ cấu tài sản",
+          "type": "",
+          "prefixText": "",
+          "color": "red"
+        },
+        {
+          "thong_tin": "TSNH/TTS (TTM)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "TSDH/TTS (TTM)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Cơ cấu nguồn vốn",
+          "type": "percent",
+          "prefixText": "",
+          "color": "red"
+        },
+        {
+          "thong_tin": "Nợ phải trả/Tổng nguồn vốn (TTM)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        },
+        {
+          "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (TTM)",
+          "type": "",
+          "prefixText": "",
+          "don_vi": "LẦN"
+        }
+      ]
+    }
+  },
+  "insurance": {
+    "items": {
+      "TT": {
+        "quarter": [
+          {
+            "thong_tin": "Định giá",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Giá thị trường",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Vốn hóa (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Giá trị doanh nghiệp - EV (Q)",
+            "type": "money",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "EPS (Q)",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng EPS (Q)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "BVPS (Q)",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng BVPS (Q)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "PE (Q)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "PB (TTM)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Doanh thu và Lợi nhuận",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Doanh thu thuần từ HĐKD Bảo hiểm (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Doanh thu từ hoạt động tài chính (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tổng doanh thu hoạt động (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Tổng doanh thu hoạt động (Q)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Lợi nhuận từ hoạt động bảo hiểm (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận hoạt động tài chính (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận trước thuế - EBT (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận ròng (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Lợi nhuận ròng (Q)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Chỉ số Hiệu quả",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận gộp  (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận hoạt động tài chính (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận trước thuế (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận ròng (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROIC (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROA (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền từ HĐKD chính - OCF (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "OCF/Lợi nhuận thuần (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền tự do - FCF (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Chỉ số Thanh toán",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tỉ lệ thanh toán hiện hành (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ thanh toán dự phòng (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ D/E (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số An toàn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Dự phòng nghiệp vụ bảo hiểm (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tỷ lệ dự phòng/doanh thu bảo hiểm TTM (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số Quản lý tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Vòng quay hàng tồn kho  (Q))",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay hàng tồn kho (Q)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải thu (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay khoản phải thu (Q)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải trả (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay các khoản phải trả (Q)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Phân tích chi tiết Dupont",
+            "color": "red"
+          },
+          {
+            "thong_tin": "ROA (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (Q)",
+            "type": "",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỉ suất lợi nhuận (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROE (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Cơ cấu tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (Q)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tài sản dài hạn/Tổng số tài sản (Q)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Cơ cấu nguồn vốn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Nợ phải trả/Tổng nguồn vốn (Q)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (Q)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          }
+        ],
+        "year": [
+          {
+            "thong_tin": "Doanh thu và Lợi nhuận",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Doanh thu thuần từ HĐKD Bảo hiểm (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Doanh thu từ hoạt động tài chính (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tổng doanh thu hoạt động (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Tổng doanh thu hoạt động (Y)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Lợi nhuận từ hoạt động bảo hiểm (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận hoạt động tài chính (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận trước thuế - EBT (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận ròng (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (Y)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Chỉ số Hiệu quả",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận gộp (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận hoạt động tài chính (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận trước thuế (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận ròng (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROIC (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROA (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền từ HĐKD chính - OCF (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "OCF/Lợi nhuận thuần (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền tự do - FCF (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Chỉ số Thanh toán",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tỉ lệ thanh toán hiện hành (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ thanh toán dự phòng (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ D/E (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số An toàn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Dự phòng nghiệp vụ bảo hiểm (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tỷ lệ dự phòng/doanh thu bảo hiểm (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số Quản lý tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Vòng quay hàng tồn kho (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay hàng tồn kho (Y)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải thu (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay khoản phải thu (Y)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải trả (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay các khoản phải trả (Y)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Phân tích chi tiết Dupont ",
+            "color": "red"
+          },
+          {
+            "thong_tin": "ROA (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (Y)",
+            "type": "",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỉ suất lợi nhuận (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROE (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Cơ cấu tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tài sản dài hạn/Tổng số tài sản (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Cơ cấu nguồn vốn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Nợ phải trả/Tổng nguồn vốn (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          }
+        ],
+        "ttm": [
+          {
+            "thong_tin": "Định giá",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Giá thị trường",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Vốn hóa",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Giá trị doanh nghiệp - EV (TTM)",
+            "type": "money",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "EPS (TTM)",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng EPS (TTM)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "BVPS (TTM)",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng BVPS (TTM)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "PE (TTM)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "PB (TTM)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Doanh thu và Lợi nhuận",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Doanh thu thuần từ HĐKD Bảo hiểm (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Doanh thu từ hoạt động tài chính (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tổng doanh thu hoạt động (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Tổng doanh thu hoạt động (TTM)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Lợi nhuận từ hoạt động bảo hiểm (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận hoạt động tài chính (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận trước thuế - EBT (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận ròng (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Lợi nhuận ròng (TTM)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Chỉ số Hiệu quả",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận gộp  (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận hoạt động tài chính (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận trước thuế (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận ròng (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROIC (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROA (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền từ HĐKD chính - OCF (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "OCF/Lợi nhuận thuần (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền tự do - FCF (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Chỉ số Thanh toán",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tỉ lệ thanh toán hiện hành (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ thanh toán dự phòng (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ D/E (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số An toàn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Dự phòng nghiệp vụ bảo hiểm (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tỷ lệ dự phòng/doanh thu bảo hiểm TTM (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số Quản lý tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Vòng quay hàng tồn kho  (TTM))",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay hàng tồn kho (TTM)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải thu (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay khoản phải thu (TTM)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải trả (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay các khoản phải trả (TTM)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Phân tích chi tiết Dupont",
+            "color": "red"
+          },
+          {
+            "thong_tin": "ROA (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (TTM)",
+            "type": "",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỉ suất lợi nhuận (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROE (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Cơ cấu tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tài sản dài hạn/Tổng số tài sản (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Cơ cấu nguồn vốn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Nợ phải trả/Tổng nguồn vốn (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          }
+        ]
+      },
+      "GT": {
+        "quarter": [
+          {
+            "thong_tin": "Định giá",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Giá thị trường (Q)",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Vốn hóa (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Giá trị doanh nghiệp - EV (Q)",
+            "type": "money",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "EPS (Q)",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng EPS (Q)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "BVPS (Q)",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng BVPS (Q)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "PE (Q)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "PB (TTM)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "EV/EBIT (TTM)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "EV/EBITDA (TTM)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Doanh thu và Lợi nhuận",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Doanh thu thuần từ HĐKD Bảo hiểm (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Doanh thu từ hoạt động tài chính (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tổng doanh thu hoạt động (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Tổng doanh thu hoạt động (Q)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Lợi nhuận từ hoạt động bảo hiểm (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận hoạt động tài chính (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "EBIT (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "EBITDA (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận trước thuế - EBT (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận sau thuế (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (Q)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Chỉ số Hiệu quả",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận gộp (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận hoạt động tài chính (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên EBIT (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên EBITDA (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận trước thuế (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận ròng (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROE (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROIC (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROA (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền từ HĐKD chính - OCF (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "OCF/Lợi nhuận thuần (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền tự do - FCF (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Chỉ số Thanh toán",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tỉ lệ thanh toán hiện hành (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ thanh toán dự phòng (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ D/E (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số An toàn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Dự phòng nghiệp vụ bảo hiểm (Q)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tỷ lệ dự phòng/doanh thu bảo hiểm (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số Quản lý tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Vòng quay hàng tồn kho (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay hàng tồn kho (Q)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải thu (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay khoản phải thu (Q)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải trả (Q)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay các khoản phải trả (Q)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Phân tích chi tiết Dupont (Q)",
+            "color": "red"
+          },
+          {
+            "thong_tin": "ROA (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (Q)",
+            "type": "",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỉ suất lợi nhuận (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROE (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Đòn bẩy tài chính (Q)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (Q)",
+            "type": "",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Biên EBIT (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Gánh nặng lãi suất (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Gánh nặng thuế (Q)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Cơ cấu tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (Q)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tài sản dài hạn/Tổng số tài sản (Q)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Cơ cấu nguồn vốn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Nợ phải trả/Tổng nguồn vốn (Q)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (Q)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          }
+        ],
+        "year": [
+          {
+            "thong_tin": "Doanh thu và Lợi nhuận",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Doanh thu thuần từ HĐKD Bảo hiểm (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Doanh thu từ hoạt động tài chính (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tổng doanh thu hoạt động (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Tổng doanh thu hoạt động (Y)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Lợi nhuận từ hoạt động bảo hiểm (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận hoạt động tài chính (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "EBIT (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "EBITDA (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận trước thuế - EBT (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận ròng (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (Y)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Chỉ số Hiệu quả",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận gộp (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận hoạt động tài chính (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên EBIT (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên EBITDA (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận trước thuế (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận ròng (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROE (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROIC (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROA (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền từ HĐKD chính - OCF (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "OCF/Lợi nhuận thuần (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền tự do - FCF (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Chỉ số Thanh toán",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tỉ lệ thanh toán hiện hành (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ thanh toán dự phòng (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ D/E (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số An toàn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Dự phòng nghiệp vụ bảo hiểm (Y)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tỷ lệ dự phòng/doanh thu bảo hiểm TTM (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số Quản lý tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Vòng quay hàng tồn kho (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay hàng tồn kho (Y)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải thu (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay khoản phải thu (Y)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải trả (Y)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay các khoản phải trả (Y)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Phân tích chi tiết Dupont",
+            "color": "red"
+          },
+          {
+            "thong_tin": "ROA (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (Y)",
+            "type": "",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỉ suất lợi nhuận (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROE (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Đòn bẩy tài chính (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (Y)",
+            "type": "",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Biên EBIT (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Gánh nặng lãi suất (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Gánh nặng thuế (Y)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Cơ cấu tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tài sản dài hạn/Tổng số tài sản (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Cơ cấu nguồn vốn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Nợ phải trả/Tổng nguồn vốn (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (Y)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          }
+        ],
+        "ttm": [
+          {
+            "thong_tin": "Định giá",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Giá thị trường",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Vốn hóa",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Giá trị doanh nghiệp - EV (TTM)",
+            "type": "money",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "EPS (TTM)",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng EPS (TTM)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "BVPS (TTM)",
+            "type": "",
+            "don_vi": "VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng BVPS (TTM)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "PE (TTM)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "PB (TTM)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "EV/EBIT (TTM)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "EV/EBITDA (TTM)",
+            "type": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Doanh thu và Lợi nhuận",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Doanh thu thuần từ HĐKD Bảo hiểm (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Doanh thu từ hoạt động tài chính (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tổng doanh thu hoạt động (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Tổng doanh thu hoạt động (TTM)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Lợi nhuận từ hoạt động bảo hiểm (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận hoạt động tài chính (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "EBIT (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "EBITDA (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận trước thuế - EBT (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Lợi nhuận sau thuế (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (TTM)",
+            "type": "percent",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Chỉ số Hiệu quả",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận gộp (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận hoạt động tài chính (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên EBIT (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên EBITDA (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận trước thuế (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Biên lợi nhuận ròng (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROE (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROIC (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROA (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền từ HĐKD chính - OCF (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "OCF/Lợi nhuận thuần (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Dòng tiền tự do - FCF (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Chỉ số Thanh toán",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tỉ lệ thanh toán hiện hành (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ thanh toán dự phòng (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỷ lệ D/E (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số An toàn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Dự phòng nghiệp vụ bảo hiểm (TTM)",
+            "type": "money",
+            "don_vi": "tỷ VNĐ"
+          },
+          {
+            "thong_tin": "Tỷ lệ dự phòng/doanh thu bảo hiểm (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Chỉ số Quản lý tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Vòng quay hàng tồn kho (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay hàng tồn kho (TTM)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải thu (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay khoản phải thu (TTM)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Vòng quay khoản phải trả (TTM)",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Số ngày bình quân vòng quay các khoản phải trả (TTM)",
+            "don_vi": "NGÀY"
+          },
+          {
+            "thong_tin": "Phân tích chi tiết Dupont (TTM)",
+            "color": "red"
+          },
+          {
+            "thong_tin": "ROA (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (TTM)",
+            "type": "",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tỉ suất lợi nhuận (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "ROE (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Đòn bẩy tài chính (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Vòng quay tài sản (TTM)",
+            "type": "",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Biên EBIT (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Gánh nặng lãi suất (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Gánh nặng thuế (TTM)",
+            "type": "percent",
+            "prefixText": "",
+            "postText": "%",
+            "don_vi": "%"
+          },
+          {
+            "thong_tin": "Cơ cấu tài sản",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Tài sản dài hạn/Tổng số tài sản (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Cơ cấu nguồn vốn",
+            "color": "red"
+          },
+          {
+            "thong_tin": "Nợ phải trả/Tổng nguồn vốn (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          },
+          {
+            "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (TTM)",
+            "prefixText": "",
+            "don_vi": "LẦN"
+          }
+        ]
+      }
+    }
+  }
+}

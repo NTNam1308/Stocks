@@ -1,0 +1,1988 @@
+{
+  "nonbank": {
+    "items": [
+      {
+        "thong_tin": "Cập nhật đến",
+        "don_vi": null,
+        "containChart": false,
+        "style": {
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Định giá",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Giá thị trường (D)",
+        "don_vi": "VND",
+        "containChart": true,
+        "isGetDataDirective": true,
+        "key_calculate": "gia_thi_truong",
+        "key_mapping_data": "gia_thi_truong"
+      },
+      {
+        "thong_tin": "Vốn hóa (D)",
+        "don_vi": "tỷ VND",
+        "containChart": true,
+        "isGetDataDirective": true,
+        "key_calculate": "von_hoa",
+        "key_mapping_data": "von_hoa"
+      },
+      {
+        "thong_tin": "Giá trị doanh nghiệp EV (D)",
+        "don_vi": "tỷ VND",
+        "containChart": true,
+        "isGetDataDirective": true,
+        "key_calculate": "gia_tri_doanh_nghiep",
+        "key_mapping_data": "gia_tri_doanh_nghiep"
+      },
+      {
+        "thong_tin": "EPS (TTM)",
+        "don_vi": "VND",
+        "containChart": true,
+        "key_mapping_data": "eps"
+      },
+      {
+        "thong_tin": "Tăng trưởng EPS(TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_eps"
+      },
+      {
+        "thong_tin": "BVPS (TTM)",
+        "don_vi": "VND",
+        "containChart": true,
+        "key_mapping_data": "bvps"
+      },
+      {
+        "thong_tin": "Tăng trưởng BVPS(TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_bvps"
+      },
+      {
+        "thong_tin": "PE (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "pe",
+        "key_mapping_data": "pe"
+      },
+      {
+        "thong_tin": "PEG (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "peg",
+        "key_mapping_data": "peg"
+      },
+      {
+        "thong_tin": "PB (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "pb",
+        "key_mapping_data": "pb"
+      },
+      {
+        "thong_tin": "EV/EBIT (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "ev_ebit",
+        "key_mapping_data": "evebit"
+      },
+      {
+        "thong_tin": "EV/EBITDA (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "ev_ebitda",
+        "key_mapping_data": "evebitda"
+      },
+      {
+        "thong_tin": "Doanh thu và lợi nhuận",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Doanh thu thuần (TTM)",
+        "don_vi": "tỷ VND",
+        "containChart": true,
+        "isGetDataDirective": true,
+        "type": "money",
+        "key_mapping_data": "dtt_ttm"
+      },
+      {
+        "thong_tin": "Tăng trưởng Doanh thu thuần (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_dtt_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận gộp (TTM)",
+        "don_vi": "tỷ VND",
+        "containChart": true,
+        "isGetDataDirective": true,
+        "type": "money",
+        "key_mapping_data": "lng_ttm"
+      },
+      {
+        "thong_tin": "EBIT (TTM)",
+        "don_vi": "tỷ VND",
+        "containChart": true,
+        "isGetDataDirective": true,
+        "type": "money",
+        "key_mapping_data": "ebit_ttm"
+      },
+      {
+        "thong_tin": "EBITDA (TTM)",
+        "don_vi": "tỷ VND",
+        "containChart": true,
+        "isGetDataDirective": true,
+        "type": "money",
+        "key_mapping_data": "ebitda_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận trước thuế (TTM)",
+        "don_vi": "tỷ VND",
+        "containChart": true,
+        "isGetDataDirective": true,
+        "type": "money",
+        "key_mapping_data": "lntt_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận sau thuế (TTM)",
+        "don_vi": "tỷ VND",
+        "containChart": true,
+        "isGetDataDirective": true,
+        "type": "money",
+        "key_mapping_data": "lnr_ttm"
+      },
+      {
+        "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_lnr_ttm"
+      },
+      {
+        "thong_tin": "Chỉ tiêu Hiệu quả",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Biên lợi nhuận gộp (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "blng_ttm"
+      },
+      {
+        "thong_tin": "Biên EBIT (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bebit_ttm"
+      },
+      {
+        "thong_tin": "Biên EBITDA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bebitda_ttm"
+      },
+      {
+        "thong_tin": "Biên lợi nhuận trước thuế (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "blntt_ttm"
+      },
+      {
+        "thong_tin": "Biên lợi nhuận ròng (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "blnr_ttm"
+      },
+      {
+        "thong_tin": "ROA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roa_ttm"
+      },
+      {
+        "thong_tin": "ROE (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roe_ttm"
+      },
+      {
+        "thong_tin": "ROIC (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roic_ttm"
+      },
+      {
+        "thong_tin": "Vòng quay tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "vqts_ttm"
+      },
+      {
+        "thong_tin": "Dòng tiền từ HĐKD chính (OCF) (TTM)",
+        "don_vi": "tỷ VND",
+        "containChart": true,
+        "type": "money",
+        "key_mapping_data": "ocf_ttm"
+      },
+      {
+        "thong_tin": "OCF/LNST (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "ocflnt_ttm"
+      },
+      {
+        "thong_tin": "Dòng tiền tự do - FCF (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "type": "money",
+        "key_mapping_data": "fcf_ttm"
+      },
+      {
+        "thong_tin": "Nợ vay tài chính dài hạn (TTM)",
+        "don_vi": "tỷ VND",
+        "containChart": true,
+        "isGetDataDirective": true,
+        "type": "money",
+        "key_mapping_data": "nvtcdh"
+      },
+      {
+        "thong_tin": "Chỉ tiêu Thanh toán",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Tỉ lệ thanh toán hiện hành (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "ti_le_thanh_toan_hien_hanh"
+      },
+      {
+        "thong_tin": "Tỉ lệ thanh toán nhanh (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "ti_le_thanh_toan_nhanh"
+      },
+      {
+        "thong_tin": "Tỷ lệ D/E (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "de"
+      },
+      {
+        "thong_tin": "Chỉ tiêu Quản lý tài sản",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Vòng quay hàng tồn kho (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "vong_quay_hang_ton_kho"
+      },
+      {
+        "thong_tin": "Số ngày bình quân vòng quay HTK (TTM)",
+        "don_vi": "NGÀY",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "so_ngay_binh_quan_vong_quay_hang_ton_kho"
+      },
+      {
+        "thong_tin": "Vòng quay khoản phải thu (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "vong_quay_khoan_phai_thu"
+      },
+      {
+        "thong_tin": "Số ngày bình quân vòng quay KPThu (TTM)",
+        "don_vi": "NGÀY",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "so_ngay_binh_quan_vong_quay_khoan_phai_thu"
+      },
+      {
+        "thong_tin": "Vòng quay khoản phải trả (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "vong_quay_khoan_phai_tra"
+      },
+      {
+        "thong_tin": "Số ngày bình quân vòng quay KPTrả (TTM)",
+        "don_vi": "NGÀY",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "so_ngay_binh_quan_vong_quay_khoan_phai_tra"
+      },
+      {
+        "thong_tin": "Phân tích chi tiết Dupont",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "ROA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roa"
+      },
+      {
+        "thong_tin": "Vòng quay tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "vqts"
+      },
+      {
+        "thong_tin": "Tỉ suất lợi nhuận (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "tsln"
+      },
+      {
+        "thong_tin": "ROE (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roe"
+      },
+      {
+        "thong_tin": "Đòn bẩy tài chính (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "dbtc"
+      },
+      {
+        "thong_tin": "Vòng quay tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "vqts2"
+      },
+      {
+        "thong_tin": "Biên EBIT (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_ebit"
+      },
+      {
+        "thong_tin": "Gánh nặng lãi suất (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "gnls"
+      },
+      {
+        "thong_tin": "Gánh nặng thuế (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "gnt"
+      },
+      {
+        "thong_tin": "Cơ cấu tài sản",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "tai_san_ngan_han_tong_so_tai_san"
+      },
+      {
+        "thong_tin": "Tài sản dài hạn/Tổng số tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "tai_san_dai_han_tong_so_tai_san"
+      },
+      {
+        "thong_tin": "Cơ cấu nguồn vốn",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Nợ phải trả/Tổng nguồn vốn (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "no_phai_tra_tong_nguon_von"
+      },
+      {
+        "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "nguon_von_chu_so_huu_tong_nguon_von"
+      },
+      {
+        "thong_tin": "3 LẰN RANH ĐỎ (BẤT ĐỘNG SẢN)",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Tỷ lệ Nợ/TTS (<= 0.7)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "ty_le_no_tts"
+      },
+      {
+        "thong_tin": "Tỷ lệ Nợ/VCSH (<= 1)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "ty_le_no_vcsh"
+      },
+      {
+        "thong_tin": "Tỷ lệ Thanh toán (>=1)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "ty_le_thanh_toan"
+      }
+    ]
+  },
+  "bank": {
+    "items": [
+      {
+        "thong_tin": "Cập nhật đến",
+        "don_vi": null,
+        "containChart": false,
+        "isGetDataDirective": true,
+        "style": {
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Định giá",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Giá thị trường (D)",
+        "don_vi": "VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_calculate": "gia_thi_truong",
+        "key_mapping_data": "gia_thi_truong"
+      },
+      {
+        "thong_tin": "Vốn hóa (D)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_calculate": "von_hoa",
+        "key_mapping_data": "von_hoa"
+      },
+      {
+        "thong_tin": "EPS (TTM)",
+        "don_vi": "VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "eps"
+      },
+      {
+        "thong_tin": "Tăng trưởng EPS(TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_eps"
+      },
+      {
+        "thong_tin": "BVPS(TTM)",
+        "don_vi": "VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_calculate": "gia_tri_so_sach",
+        "key_mapping_data": "gia_tri_so_sach"
+      },
+      {
+        "thong_tin": "Tăng trưởng BVPS(TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_bvps"
+      },
+      {
+        "thong_tin": "PE (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "pe",
+        "key_mapping_data": "pe"
+      },
+      {
+        "thong_tin": "PEG (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "peg",
+        "key_mapping_data": "peg"
+      },
+      {
+        "thong_tin": "PB (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "pb",
+        "key_mapping_data": "pb"
+      },
+      {
+        "thong_tin": "Doanh thu và Lợi nhuận",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Thu nhập lãi thuần (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "type": "money",
+        "key_mapping_data": "thu_nhap_lai_thuan_ttm"
+      },
+      {
+        "thong_tin": "Tăng trưởng Thu nhập lãi thuần (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_tnlt_ttm"
+      },
+      {
+        "thong_tin": "Lãi/lỗ thuần từ hoạt động thu phí dịch vụ (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "type": "money",
+        "key_mapping_data": "lai_lo_thuan_tu_hoat_dong_dich_vu_ttm"
+      },
+      {
+        "thong_tin": "Lãi/lỗ thuần từ hoạt động đầu tư (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "type": "money",
+        "key_mapping_data": "lai_lo_thuan_tu_hoat_dong_dau_tu_ttm"
+      },
+      {
+        "thong_tin": "Tổng Doanh thu hoạt động (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "type": "money",
+        "key_mapping_data": "tong_doanh_thu_hoat_dong_ttm"
+      },
+      {
+        "thong_tin": "Chi phí hoạt động (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "type": "money",
+        "key_mapping_data": "chi_phi_hoat_dong_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận từ HĐKD trước chi phí dự phòng rủi ro tín dung (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "type": "money",
+        "key_mapping_data": "loi_nhuan_tu_hdkd_truoc_chi_phi_du_phong_rui_ro_tin_dung_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận sau thuế (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "type": "money",
+        "key_mapping_data": "lnst_sau_khi_dieu_chinh_loi_ich_cua_cdts_va_co_tuc_uu_dai_ttm"
+      },
+      {
+        "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_lnst_ttm"
+      },
+      {
+        "thong_tin": "Chỉ tiêu hiệu quả",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "ROEA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roea"
+      },
+      {
+        "thong_tin": "ROAA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roaa_ttm"
+      },
+      {
+        "thong_tin": "YOEA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "yea_ttm"
+      },
+      {
+        "thong_tin": "COF (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "cof_ttm"
+      },
+      {
+        "thong_tin": "NIM (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "nim_ttm"
+      },
+      {
+        "thong_tin": "CIR (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "cir_ttm"
+      },
+      {
+        "thong_tin": "Tỷ lệ CASA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "casa_ttm"
+      },
+      {
+        "thong_tin": "Chỉ tiêu Thanh khoản",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Dư nợ cho vay/Tổng tài sản Có (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "du_no_cho_vay_tts_co"
+      },
+      {
+        "thong_tin": "Vốn chủ sở hữu/Tổng vốn huy động (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "vcsh_tvhd"
+      },
+      {
+        "thong_tin": "Vốn chủ sở hữu/Tổng tài sản Có (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "vcsh_tts_co"
+      },
+      {
+        "thong_tin": "Nợ xấu",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Tỷ lệ bao nợ xấu (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "ty_le_bao_no_xau_ttm"
+      },
+      {
+        "thong_tin": "Tỷ lệ nợ xấu- NPL (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "ty_le_no_xau_npl_ttm"
+      },
+      {
+        "thong_tin": "Lãi dự thu (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "lai_du_thu_ttm"
+      },
+      {
+        "thong_tin": "An toàn vốn",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Hệ số CAR (Y)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "car_y"
+      },
+      {
+        "thong_tin": "LDR (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "ldr_ttm"
+      },
+      {
+        "thong_tin": "Chất lượng tài sản",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Dự phòng rủi ro tín dụng/Tổng dư nợ (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "dprrtd_tdn"
+      },
+      {
+        "thong_tin": "Tài sản Có sinh lãi/Tổng tài sản Có (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "tscl_ttsc"
+      }
+    ]
+  },
+  "stock": {
+    "items": [
+      {
+        "thong_tin": "Cập nhật đến",
+        "don_vi": null,
+        "containChart": false,
+        "style": {
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Định giá",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Giá thị trường",
+        "don_vi": "VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_calculate": "gia_thi_truong",
+        "key_mapping_data": "gia_thi_truong"
+      },
+      {
+        "thong_tin": "Vốn hóa (D)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_calculate": "von_hoa",
+        "key_mapping_data": "von_hoa"
+      },
+      {
+        "thong_tin": "Giá trị doanh nghiệp - EV (D)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_calculate": "gia_tri_doanh_nghiep",
+        "key_mapping_data": "gia_tri_doanh_nghiep"
+      },
+      {
+        "thong_tin": "EPS (TTM)",
+        "don_vi": "VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "eps"
+      },
+      {
+        "thong_tin": "Tăng trưởng EPS (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_eps"
+      },
+      {
+        "thong_tin": "BVPS (TTM)",
+        "don_vi": "VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "bvps"
+      },
+      {
+        "thong_tin": "Tăng trưởng BVPS (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_bvps"
+      },
+      {
+        "thong_tin": "PE (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "pe",
+        "key_mapping_data": "pe"
+      },
+      {
+        "thong_tin": "PEG (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "peg",
+        "key_mapping_data": "peg"
+      },
+      {
+        "thong_tin": "PB (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "pb",
+        "key_mapping_data": "pb"
+      },
+      {
+        "thong_tin": "EV/EBIT (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "ev_ebit",
+        "key_mapping_data": "ev_ebit"
+      },
+      {
+        "thong_tin": "Doanh thu và Lợi nhuận",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Cộng doanh thu hoạt động(TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "cong_doanh_thu_hoat_dong_ttm"
+      },
+      {
+        "thong_tin": "Tăng trưởng Cộng doanh thu hoạt động (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_cong_doanh_thu_hoat_dong_ttm"
+      },
+      {
+        "thong_tin": "Doanh thu môi giới (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "doanh_thu_moi_gioi_ttm"
+      },
+      {
+        "thong_tin": "Doanh thu cho vay (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "doanh_thu_cho_vay_ttm"
+      },
+      {
+        "thong_tin": "Doanh thu bảo lãnh (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "doanh_thu_bao_lanh_ttm"
+      },
+      {
+        "thong_tin": "Doanh thu tự doanh (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "doanh_thu_tu_doanh_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận môi giới (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "loi_nhuan_moi_gioi_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận cho vay (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "loi_nhuan_cho_vay_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận bảo lãnh (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "loi_nhuan_bao_lanh_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận tự doanh (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "loi_nhuan_tu_doanh_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận gộp (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "loi_nhuan_gop_ttm"
+      },
+      {
+        "thong_tin": "EBIT (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "ebit_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận trước thuế (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "tong_loi_nhuan_ke_toan_truoc_thue_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận sau thuế (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "loi_nhuan_ke_toan_sau_thue_tndn_ttm"
+      },
+      {
+        "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_lnst_ttm"
+      },
+      {
+        "thong_tin": "Chỉ tiêu hiệu quả",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Biên lợi nhuận môi giới (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_loi_nhuan_moi_gioi"
+      },
+      {
+        "thong_tin": "Biên lợi nhuận cho vay (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_loi_nhuan_cho_vay"
+      },
+      {
+        "thong_tin": "Biên lợi nhuận bảo lãnh (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_loi_nhuan_bao_lanh"
+      },
+      {
+        "thong_tin": "Biên lợi nhuận tự doanh (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_loi_nhuan_tu_doanh"
+      },
+      {
+        "thong_tin": "Biện lợi nhuận gộp (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_loi_nhuan_gop"
+      },
+      {
+        "thong_tin": "Biên EBIT (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_ebit"
+      },
+      {
+        "thong_tin": "Biên EBT (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_ebt"
+      },
+      {
+        "thong_tin": "Biên lợi nhuận sau thuế (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_loi_nhuan_sau_thue"
+      },
+      {
+        "thong_tin": "ROAA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roaa"
+      },
+      {
+        "thong_tin": "ROEA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roea"
+      },
+      {
+        "thong_tin": "Chỉ tiêu an toàn",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Tỷ lệ dự phòng suy giảm giá trị tài sản tài chính (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "ti_le_du_phong_suy_giam_gia_tri_tstc"
+      },
+      {
+        "thong_tin": "Tỷ lệ dự phòng suy giảm giá trị khoản phải thu (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "ti_le_du_phong_suy_giam_gia_tri_khoan_phai_thu"
+      },
+      {
+        "thong_tin": "Tỷ lệ Dư nợ margin/VCSH (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "ti_le_du_no_margin_vcsh"
+      },
+      {
+        "thong_tin": "Chỉ tiêu thanh toán",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Tỉ lệ thanh toán hiện hành (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "ti_le_thanh_toan_hien_hanh"
+      },
+      {
+        "thong_tin": "Tỷ lệ D/E (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "de"
+      },
+      {
+        "thong_tin": "Phân tích chi tiết Dupont",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": " ROA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roa"
+      },
+      {
+        "thong_tin": "Vòng quay tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "vong_quay_tai_san"
+      },
+      {
+        "thong_tin": "Tỉ suất lợi nhuận (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "ti_suat_loi_nhuan"
+      },
+      {
+        "thong_tin": " ROE (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roe"
+      },
+      {
+        "thong_tin": "Đòn bẩy tài chính (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "don_bay_tai_chinh"
+      },
+      {
+        "thong_tin": "Vòng quay tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "vong_quay_tai_san2"
+      },
+      {
+        "thong_tin": "Biên EBIT (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_ebit2"
+      },
+      {
+        "thong_tin": "Gánh nặng lãi suất (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "ganh_nang_lai_suat"
+      },
+      {
+        "thong_tin": "Gánh nặng thuế (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "ganh_nang_thue"
+      },
+      {
+        "thong_tin": "Cơ cấu tài sản",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "tsnh_tts"
+      },
+      {
+        "thong_tin": "Tài sản dài hạn/Tổng số tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "tsdh_tts"
+      },
+      {
+        "thong_tin": "Cơ cấu nguồn vốn",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Nợ phải trả/Tổng nguồn vốn (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "bpt_tnv"
+      },
+      {
+        "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "tvcsh_tnv"
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "thong_tin": "Cập nhật đến",
+        "don_vi": null,
+        "isGetDataDirective": true,
+        "containChart": false,
+        "style": {
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Định giá",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Giá thị trường (D)",
+        "don_vi": "VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_calculate": "gia_thi_truong",
+        "key_mapping_data": "gia_thi_truong"
+      },
+      {
+        "thong_tin": "Vốn hóa (D)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_calculate": "von_hoa",
+        "key_mapping_data": "von_hoa"
+      },
+      {
+        "thong_tin": "Giá trị doanh nghiệp - EV (D)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_calculate": "gia_tri_doanh_nghiep",
+        "key_mapping_data": "gia_tri_doanh_nghiep"
+      },
+      {
+        "thong_tin": "EPS (TTM)",
+        "don_vi": "VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "eps"
+      },
+      {
+        "thong_tin": "Tăng trưởng EPS (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_eps"
+      },
+      {
+        "thong_tin": "BVPS (TTM)",
+        "don_vi": "VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "bvps"
+      },
+      {
+        "thong_tin": "Tăng trưởng BVPS (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_bvps"
+      },
+      {
+        "thong_tin": "PE (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "pe",
+        "key_mapping_data": "pe"
+      },
+      {
+        "thong_tin": "PEG (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "peg",
+        "key_mapping_data": "peg"
+      },
+      {
+        "thong_tin": "PB (D)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "pb",
+        "key_mapping_data": "pb"
+      },
+      {
+        "thong_tin": "EV/EBIT (D)*",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "ev_ebit",
+        "key_mapping_data": "evebit"
+      },
+      {
+        "thong_tin": "EV/EBITDA (D)*",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_calculate": "ev_ebitda",
+        "key_mapping_data": "evebitda"
+      },
+      {
+        "thong_tin": "Doanh thu và Lợi nhuận",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Doanh thu thuần từ HĐKD Bảo hiểm (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "doanh_thu_thuan_ttm"
+      },
+      {
+        "thong_tin": "Doanh thu từ hoạt động tài chính (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "doanh_thu_hoat_dong_tai_chinh_ttm"
+      },
+      {
+        "thong_tin": "Tổng doanh thu hoạt động (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "tong_doanh_thu_hoat_dong_ttm"
+      },
+      {
+        "thong_tin": "Tăng trưởng Tổng doanh thu hoạt động (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_tong_doanh_thu_hoat_dong_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận hoạt động bảo hiểm (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "loi_nhuan_tu_hoat_dong_bao_hiem_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận hoạt động tài chính (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "loi_nhuan_hoat_dong_tai_chinh_ttm"
+      },
+      {
+        "thong_tin": "EBIT (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "ebit_ttm"
+      },
+      {
+        "thong_tin": "EBITDA (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "ebitda_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận trước thuế - EBT (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "lntt_ttm"
+      },
+      {
+        "thong_tin": "Lợi nhuận sau thuế (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "lnr_ttm"
+      },
+      {
+        "thong_tin": "Tăng trưởng Lợi nhuận sau thuế (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "key_mapping_data": "tang_truong_lnr_ttm"
+      },
+      {
+        "thong_tin": "Chỉ tiêu Hiệu quả",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Biên lợi nhuận gộp (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_loi_nhuan_gop"
+      },
+      {
+        "thong_tin": "Biên lợi nhuận hoạt động tài chính (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_loi_nhuan_hoat_dong_tai_chinh"
+      },
+      {
+        "thong_tin": "Biên EBIT (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_ebit"
+      },
+      {
+        "thong_tin": "Biên EBITDA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_ebitda"
+      },
+      {
+        "thong_tin": "Biên lợi nhuận trước thuế (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_loi_nhuan_truoc_thue"
+      },
+      {
+        "thong_tin": "Biên lợi nhuận ròng (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_loi_nhuan_rong"
+      },
+      {
+        "thong_tin": "ROA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roa_ttm"
+      },
+      {
+        "thong_tin": "ROE (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roe_ttm"
+      },
+      {
+        "thong_tin": "ROIC (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roic_ttm"
+      },
+      {
+        "thong_tin": "Vòng quay tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "vong_quay_tai_san"
+      },
+      {
+        "thong_tin": "Dòng tiền từ HĐKD chính - OCF (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "ocf"
+      },
+      {
+        "thong_tin": "OCF/LNST (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "ocf_loi_nhuan_sau_thue"
+      },
+      {
+        "thong_tin": "Dòng tiền tự do - FCF (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "fcf"
+      },
+      {
+        "thong_tin": "Chỉ tiêu Thanh toán",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Tỉ lệ thanh toán hiện hành (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "ty_le_thanh_toan_hien_hanh"
+      },
+      {
+        "thong_tin": "Tỉ lệ thanh toán dự phòng (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "ty_le_thanh_toan_du_phong"
+      },
+      {
+        "thong_tin": "Tỷ lệ D/E (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "ty_le_de"
+      },
+      {
+        "thong_tin": "Chỉ tiêu An toàn",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Dự phòng nghiệp vụ bảo hiểm (TTM)",
+        "don_vi": "tỷ VND",
+        "isGetDataDirective": true,
+        "containChart": true,
+        "key_mapping_data": "du_phong_nghiep_vu_bao_hiem"
+      },
+      {
+        "thong_tin": "Tỷ lệ dự phòng/doanh thu bảo hiểm  (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "key_mapping_data": "ty_le_dp_dtbh_ttm"
+      },
+      {
+        "thong_tin": "Chỉ tiêu quản lý tài sản",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Vòng quay hàng tồn kho (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_mapping_data": "vong_quay_hang_ton_kho"
+      },
+      {
+        "thong_tin": "Số ngày bình quân vòng quay HTK (TTM)",
+        "don_vi": "NGÀY",
+        "containChart": true,
+        "key_mapping_data": "so_ngay_binh_quan_vong_quay_hang_ton_kho"
+      },
+      {
+        "thong_tin": "Vòng quay khoản phải thu (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_mapping_data": "vong_quay_khoan_phai_thu"
+      },
+      {
+        "thong_tin": "Số ngày bình quân vòng quay KPThu (TTM)",
+        "don_vi": "NGÀY",
+        "containChart": true,
+        "key_mapping_data": "so_ngay_binh_quan_vong_quay_khoan_phai_thu"
+      },
+      {
+        "thong_tin": "Vòng quay khoản phải trả (TTM) ",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "key_mapping_data": "vong_quay_khoan_phai_tra"
+      },
+      {
+        "thong_tin": "Số ngày bình quân vòng quay KPTrả (TTM)",
+        "don_vi": "NGÀY",
+        "containChart": true,
+        "key_mapping_data": "so_ngay_binh_quan_vong_quay_khoan_phai_tra"
+      },
+      {
+        "thong_tin": "Phân tích chi tiết Dupont",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": " ROA (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roa2"
+      },
+      {
+        "thong_tin": "Vòng quay tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "vong_quay_tai_san2"
+      },
+      {
+        "thong_tin": "Tỉ suất lợi nhuận (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "tsln"
+      },
+      {
+        "thong_tin": " ROE (TTM)",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "roe2"
+      },
+      {
+        "thong_tin": "Đòn bẩy tài chính (TTM)*",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "dbtc"
+      },
+      {
+        "thong_tin": "Vòng quay tài sản (TTM)*",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "vqts2"
+      },
+      {
+        "thong_tin": "Biên EBIT (TTM)*",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "bien_ebit2"
+      },
+      {
+        "thong_tin": "Gánh nặng lãi (TTM)*",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "gnls"
+      },
+      {
+        "thong_tin": "Gánh nặng thuế (TTM)*",
+        "don_vi": "%",
+        "containChart": true,
+        "type": "percent",
+        "prefixText": "",
+        "postText": "%",
+        "key_mapping_data": "gnt"
+      },
+      {
+        "thong_tin": "Cơ cấu tài sản",
+        "don_vi": null,
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Tài sản ngắn hạn/Tổng số tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "tai_san_ngan_han_tong_so_tai_san"
+      },
+      {
+        "thong_tin": "Tài sản dài hạn/Tổng số tài sản (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "tai_san_dai_han_tong_so_tai_san"
+      },
+      {
+        "thong_tin": "Cơ cấu nguồn vốn",
+        "containChart": false,
+        "isTitle": true,
+        "style": {
+          "color": "red",
+          "font-weight": "bold"
+        }
+      },
+      {
+        "thong_tin": "Nợ phải trả/Tổng nguồn vốn (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "no_phai_tra_tong_nguon_von"
+      },
+      {
+        "thong_tin": "Nguồn vốn chủ sở hữu/Tổng nguồn vốn (TTM)",
+        "don_vi": "LẦN",
+        "containChart": true,
+        "prefixText": "",
+        "key_mapping_data": "nguon_von_chu_so_huu_tong_nguon_von"
+      }
+    ]
+  }
+}

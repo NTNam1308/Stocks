@@ -1,0 +1,105 @@
+@import "variables";
+
+// Import styles
+@import "~@coreui/coreui/scss/coreui";
+
+// If you want to add something do it here
+@import "custom";
+@import "darkmode";
+.table-class tr td {
+  padding: 0 0px;
+  background-color: $table-accent-bg !important;
+}
+.nochange-enter-active {
+  animation: nochange 1s;
+}
+.upchange-enter-active {
+  animation: upchange 1s;
+}
+.ceilchange-enter-active {
+  animation: ceilchange 1s;
+}
+.downchange-enter-active {
+  animation: downchange 1s;
+}
+.floorchange-enter-active {
+  animation: floorchange 1s;
+}
+
+@keyframes nochange {
+  0% {
+    background-color: rgb(246, 155, 11);
+    color: #fff;
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+@keyframes ceilchange {
+  0% {
+    background-color: #da06f7;
+    color: #fff;
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+@keyframes upchange {
+  0% {
+    background-color: rgb(46, 184, 92);
+    color: #fff;
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+@keyframes floorchange {
+  0% {
+    background-color: rgb(23, 194, 206);
+    color: #fff;
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+@keyframes downchange {
+  0% {
+    background-color: rgb(229, 83, 83);
+    color: #fff;
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+.text-ceilchange {
+  color: rgb(190, 0, 190);
+}
+.text-upchange {
+  color:  rgb(0, 124, 1);
+}
+.text-nochange {
+  color:rgb(246, 155, 11);
+}
+.text-downchange {
+  color: rgb(255, 0, 23);
+}
+.text-floorchange {
+  color: rgb(0, 105, 196);
+}
+.c-dark-theme {
+  .text-ceilchange {
+    color: rgb(253, 2, 253);
+  }
+  .text-upchange {
+    color: rgb(11, 223, 57);
+  }
+  .text-nochange {
+    color:rgb(253, 255, 18);
+  }
+  .text-downchange {
+    color: rgb(255, 0, 23);
+  }
+  .text-floorchange {
+    color: rgb(82, 211, 249);
+  }
+}

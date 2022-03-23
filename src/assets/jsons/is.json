@@ -1,0 +1,1013 @@
+{
+  "nonbank": {
+    "items": [
+      {
+        "thong_tin": "1. Tổng doanh thu hoạt động kinh doanh",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "2. Các khoản giảm trừ doanh thu",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "3. Doanh thu thuần (1)-(2)",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "4. Giá vốn bán hàng",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "5. Lợi nhuận gộp (3)-(4)",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "6. Doanh thu hoạt động tài chính",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "7. Chi phí tài chính",
+        "is_parent": "true",
+        "is_show_child": "true",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "-Chi phí lãi vay",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "6"
+      },
+      {
+        "thong_tin": "8. Phần lợi nhuận hoặc lỗ trong công ty liên kết liên doanh",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "9. Chi phí bán hàng",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "10. Chi phí quản lý doanh nghiệp",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "11. Lợi nhuận thuần từ hoạt động kinh doanh (5)+(6)-(7)+(8)-(9)-(10)",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "12. Thu nhập khác",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "13. Chi phí khác",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "14. Lợi nhuận khác (12)-(13)",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "15. Tổng lợi nhuận kế toán trước thuế (11)+(14)",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "16. Chi phí thuế TNDN hiện hành",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "17. Chi phí thuế TNDN hoãn lại",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "18. Chi phí thuế TNDN (16)+(17)",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "19. Lợi nhuận sau thuế thu nhập doanh nghiệp (15)-(18)",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "20. Lợi nhuận sau thuế của cổ đông không kiểm soát",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "21. Lợi nhuận sau thuế của cổ đông của công ty mẹ (19)-(20)",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "EPS (VNĐ)",
+        "is_bold": "true",
+        "is_root": "true"
+      }
+    ]
+  },
+  "bank": {
+    "items": [
+      {
+        "thong_tin": "Thu nhập lãi thuần",
+        "is_root": "true",
+        "is_show_child": "true",
+        "is_parent": "true"
+      },
+      {
+        "thong_tin": "Thu nhập từ lãi và các khoản thu nhập tương tự",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "Chi phí lãi và các chi phí tương tự",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "Lãi/Lỗ thuần từ hoạt động dịch vụ",
+        "is_root": "true",
+        "is_parent": "true",
+        "is_show_child": "true"
+      },
+      {
+        "thong_tin": "Thu nhập từ hoạt động dịch vụ",
+        "style": "padding-left: 20px",
+        "key_parent": "3"
+      },
+      {
+        "thong_tin": "Chi phí hoạt động dịch vụ",
+        "style": "padding-left: 20px",
+        "key_parent": "3"
+      },
+      {
+        "thong_tin": "Lãi/Lỗ thuần từ hoạt động kinh doanh ngoại hối",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "Lãi/Lỗ thuần từ mua bán chứng khoán kinh doanh",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "Lãi/Lỗ thuần từ mua bán chứng khoán đầu tư",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "Lãi/Lỗ thuần từ hoạt động khác",
+        "is_root": "true",
+        "is_parent": "true",
+        "is_show_child": "true"
+      },
+      {
+        "thong_tin": "Thu nhập từ hoạt động khác",
+        "style": "padding-left: 20px",
+        "key_parent": "9"
+      },
+      {
+        "thong_tin": "Chi phí hoạt động khác",
+        "style": "padding-left: 20px",
+        "key_parent": "9"
+      },
+      {
+        "thong_tin": "Thu nhập từ hoạt động góp vốn mua cổ phần",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "Chi phí hoạt động",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "Lợi nhuận từ HDKD trước chi phí dự phòng rủi ro tín dụng",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "Chi phí dự phòng rủi ro tín dụng",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "Tổng lợi nhuận trước thuế",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "Chi phí thuế TNDN",
+        "is_root": "true",
+        "is_parent": "true",
+        "is_show_child": "true"
+      },
+      {
+        "thong_tin": "Chi phí thuế thu nhập hiện hành",
+        "style": "padding-left: 20px",
+        "key_parent": "17"
+      },
+      {
+        "thong_tin": "Chi phí thuế TNDN giữ lại",
+        "style": "padding-left: 20px",
+        "key_parent": "17"
+      },
+      {
+        "thong_tin": "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "Lợi ích của cổ đông thiểu số và cổ tức ưu đãi",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "LNST sau khi điều chỉnh Lợi ích của CĐTS và Cổ tức ưu đãi",
+        "is_bold": "true",
+        "is_root": "true"
+      },
+      {
+        "thong_tin": "EPS (VNĐ)",
+        "is_bold": "true",
+        "is_root": "true"
+      }
+    ]
+  },
+  "stock": {
+    "items": [
+      {
+        "thong_tin": "I. DOANH THU HOẠT ĐỘNG",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "1.1. Lãi từ các tài sản tài chính ghi nhận thông qua lãi/lỗ (FVTPL)",
+        "style": "padding-left: 20px",
+        "key_parent": "0",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "a. Lãi bán các tài sản tài chính",
+        "style": "padding-left: 40px",
+        "key_parent": "0.1"
+      },
+      {
+        "thong_tin": "b. Chênh lệch tăng đánh giá lại các TSTC thông qua lãi/lỗ",
+        "style": "padding-left: 40px",
+        "key_parent": "0.1"
+      },
+      {
+        "thong_tin": "c. Cổ tức, tiền lãi phát sinh từ tài sản tài chính PVTPL",
+        "style": "padding-left: 40px",
+        "key_parent": "0.1"
+      },
+      {
+        "thong_tin": "1.2. Lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM)",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "1.3. Lãi từ các khoản cho vay và phải thu",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "1.4. Lãi từ các tài sản tài chính sẵn sàng để bán (AFS)",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "1.5. Lãi từ các công cụ phái sinh phòng ngừa rủi ro",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "1.6. Doanh thu môi giới chứng khoán",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "1.7. Doanh thu bảo lãnh, đại lý phát hành chứng khoán",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "1.8. Doanh thu tư vấn",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "1.9. Doanh thu hoạt động nhận ủy thác, đấu giá",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "1.10. Doanh thu lưu ký chứng khoán",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "1.11. Thu nhập hoạt động khác",
+        "style": "padding-left: 20px",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "Cộng doanh thu hoạt động",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "0"
+      },
+      {
+        "thong_tin": "II. CHI PHÍ HOẠT ĐỘNG",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "2.1. Lỗ các tài sản tài chính ghi nhận thông qua lãi/lỗ (FVTPL)",
+        "style": "padding-left: 20px",
+        "key_parent": "16",
+        "is_parent": true,
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "a. Lỗ bán các tài sản tài chính",
+        "style": "padding-left: 40px",
+        "key_parent": "16.17"
+      },
+      {
+        "thong_tin": "b. Chênh lệch giảm đánh giá lại các TSTC thông qua lãi/lỗ",
+        "style": "padding-left: 40px",
+        "key_parent": "16.17"
+      },
+      {
+        "thong_tin": "c. Chi phí giao dịch mua các tài sản tài chính FVTPL",
+        "style": "padding-left: 40px",
+        "key_parent": "16.17"
+      },
+      {
+        "thong_tin": "2.2. Lỗ các khoản đầu tư nắm giữ đến ngày đáo hạn (HTM)",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "2.3. Chi phí lãi vay, lỗ từ các khoản cho vay và phải thu",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "2.4. Lỗ bán các tài sản tài chính sẵn sàng để bán (AFS)",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "2.5. Lỗ từ các tài sản tài chính phái sinh phòng ngừa rủi ro",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "2.6. Chi phí hoạt động tự doanh",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "2.7. Chi phí môi giới chứng khoán",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "2.8. Chi phí hoạt động bảo lãnh, đại lý phát hành chứng khoán",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "2.9. Chi phí tư vấn",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "2.10. Chi phí hoạt động đấu giá, ủy thác",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "2.11. Chi phí lưu ký chứng khoán",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "2.12. Chi phí khác",
+        "style": "padding-left: 20px",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "Trong đó: Chi phí sửa lỗi giao dịch chứng khoán, lỗi khác",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "Cộng chi phí hoạt động",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "16"
+      },
+      {
+        "thong_tin": "III. DOANH THU HOẠT ĐỘNG TÀI CHÍNH",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "3.1. Chênh lệch lãi tỷ giá hối đoái đã và chưa thực hiện",
+        "style": "padding-left: 20px",
+        "key_parent": "34"
+      },
+      {
+        "thong_tin": "3.2. Doanh thu, dự thu cổ tức, lãi tiền gửi không cố định phát sinh trong kỳ",
+        "style": "padding-left: 20px",
+        "key_parent": "34"
+      },
+      {
+        "thong_tin": "3.3. Lãi bán, thanh lý các khoản đầu tư vào công ty con, liên kết, liên doanh",
+        "style": "padding-left: 20px",
+        "key_parent": "34"
+      },
+      {
+        "thong_tin": "3.4. Doanh thu khác về đầu tư",
+        "style": "padding-left: 20px",
+        "key_parent": "34"
+      },
+      {
+        "thong_tin": "Cộng doanh thu hoạt động tài chính",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "34"
+      },
+      {
+        "thong_tin": "IV. CHI PHÍ TÀI CHÍNH",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "4.1. Chênh lệch lỗ tỷ giá hối đoái đã và chưa thực hiện",
+        "style": "padding-left: 20px",
+        "key_parent": "40"
+      },
+      {
+        "thong_tin": "4.2. Chi phí lãi vay",
+        "style": "padding-left: 20px",
+        "key_parent": "40"
+      },
+      {
+        "thong_tin": "4.3. Lỗ bán, thanh lý các khoản đầu tư vào công ty con, liên kết, liên doanh",
+        "style": "padding-left: 20px",
+        "key_parent": "40"
+      },
+      {
+        "thong_tin": "4.4. Chi phí đầu tư khác",
+        "style": "padding-left: 20px",
+        "key_parent": "40"
+      },
+      {
+        "thong_tin": "Cộng chi phí tài chính",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "40"
+      },
+      {
+        "thong_tin": "V. CHI BÁN HÀNG",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "VI. CHI PHÍ QUẢN LÝ CÔNG TY CHỨNG KHOÁN",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "VII. KẾT QUẢ HOẠT ĐỘNG",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "VIII. THU NHẬP KHÁC VÀ CHI PHÍ KHÁC",
+        "is_header": "true",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "8.1. Thu nhập khác",
+        "style": "padding-left: 20px",
+        "key_parent": "49"
+      },
+      {
+        "thong_tin": "8.2. Chi phí khác",
+        "style": "padding-left: 20px",
+        "key_parent": "49"
+      },
+      {
+        "thong_tin": "Cộng kết quả hoạt động khác",
+        "style": "padding-left: 20px",
+        "is_bold": "true",
+        "key_parent": "49"
+      },
+      {
+        "thong_tin": "IX. TỔNG LỢI NHUẬN KẾ TOÁN TRƯỚC THUẾ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "9.1. Lợi nhuận đã thực hiện",
+        "style": "padding-left: 20px",
+        "key_parent": "53"
+      },
+      {
+        "thong_tin": "9.2. Lợi nhuận chưa thực hiện",
+        "style": "padding-left: 20px",
+        "key_parent": "53"
+      },
+      {
+        "thong_tin": "X. CHI PHÍ THUẾ TNDN",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "10.1. Chi phí thuế TNDN hiện hành",
+        "style": "padding-left: 20px",
+        "key_parent": "56"
+      },
+      {
+        "thong_tin": "10.2. Chi phí thuế TNDN hoãn lại",
+        "style": "padding-left: 20px",
+        "key_parent": "56"
+      },
+      {
+        "thong_tin": "XI. LỢI NHUẬN KẾ TOÁN SAU THUẾ TNDN",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "11.1. Lợi nhuận sau thuế phân bổ cho chủ sở hữu",
+        "style": "padding-left: 20px",
+        "key_parent": "59"
+      },
+      {
+        "thong_tin": "11.2. Lợi nhuận sau thuế trích các Quỹ dự trữ điều lệ, Quỹ Dự phòng tài chính và rủi ro nghề nghiệp theo quy định của Điều lệ Công ty là %)",
+        "style": "padding-left: 20px",
+        "key_parent": "59"
+      },
+      {
+        "thong_tin": "11.3. Lợi nhuận thuần phân bổ cho lợi ích của cổ đông không kiểm soát",
+        "style": "padding-left: 20px",
+        "key_parent": "59"
+      },
+      {
+        "thong_tin": "XII. THU NHẬP (LỖ) TOÀN DIỆN KHÁC SAU THUẾ TNDN",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "12.1. Lãi/(Lỗ) từ đánh giá lại các các khoản đầu tư giữ đến ngày đáo hạn",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "12.2.Lãi/(Lỗ) từ đánh giá lại các tài sản tài chính sẵn sàng để bán",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "12.3. Lãi (lỗ) toàn diện khác được chia từ hoạt động đầu tư vào công ty con, công ty liên kết, liên doanh",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "12.4. Lãi/(Lỗ) từ đánh giá lại các công cụ tài chính phái sinh",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "12.5. Lãi/(lỗ) chênh lệch tỷ giá của hoạt động tại nước ngoài",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "12.6. Lãi, lỗ từ các khoản đầu tư vào công ty con, công ty liên kết, liên doanh chưa chia",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "12.7. Lãi, lỗ đánh giá công cụ phái sinh",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "12.8. Lãi, lỗ đánh giá lại tài sản cố định theo mô hình giá trị hợp lý",
+        "style": "padding-left: 20px",
+        "key_parent": "63"
+      },
+      {
+        "thong_tin": "Tổng thu nhập toàn diện",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "Thu nhập toàn diện phân bổ cho chủ sở hữu",
+        "style": "padding-left: 20px",
+        "key_parent": "72"
+      },
+      {
+        "thong_tin": "Thu nhập toàn diện phân bổ cho cổ đông không nắm quyền kiểm soát",
+        "style": "padding-left: 20px",
+        "key_parent": "72"
+      },
+      {
+        "thong_tin": "XIII. THU NHẬP THUẦN TRÊN CỔ PHIẾU PHỔ THÔNG",
+        "is_bold": "true",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "13.1. Lãi cơ bản trên cổ phiếu (Đồng/1 cổ phiếu)",
+        "style": "padding-left: 20px",
+        "key_parent": "75"
+      },
+      {
+        "thong_tin": "13.2. Thu nhập pha loãng trên cổ phiếu (Đồng/1 cổ phiếu)",
+        "style": "padding-left: 20px",
+        "key_parent": "75"
+      },
+      {
+        "thong_tin": "EPS (VNĐ)",
+        "is_root": true,
+        "is_show_child": true
+      }
+    ]
+  },
+  "insurance": {
+    "items": [
+      {
+        "thong_tin": "1. Thu phí bảo hiểm gốc",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "2. Thu phí nhận tái bảo hiểm",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "3. Các khoản giảm trừ",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "- Phí nhượng tái bảo hiểm",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "2"
+      },
+      {
+        "thong_tin": "- Giảm phí bảo hiểm",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "2"
+      },
+      {
+        "thong_tin": "- Hoàn phí bảo hiểm",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "2"
+      },
+      {
+        "thong_tin": "- Hoàn phí nhận tái bảo hiểm",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "2"
+      },
+      {
+        "thong_tin": "- Các khoản giảm trừ khác",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "2"
+      },
+      {
+        "thong_tin": "4. Tăng (giảm) dự phòng phí, dự phòng toán học",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "5. Thu hoa hồng nhượng tái bảo hiểm",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "6. Thu khác hoạt động kinh doanh bảo hiểm",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "- Thu nhận tái bảo hiểm",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "10"
+      },
+      {
+        "thong_tin": "- Thu nhượng tái bảo hiểm",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "10"
+      },
+      {
+        "thong_tin": "- Thu khác (Giám định, đại lý...)",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "10"
+      },
+      {
+        "thong_tin": "7. Doanh thu thuần hoạt động kinh doanh bảo hiểm",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "8. Chi bồi thường Bảo hiểm gốc, trả tiền bảo hiểm",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "9. Chi bồi thường nhận tái bảo hiểm, trả tiền bảo hiểm",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "10. Các khoản giảm trừ",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "- Thu bồi thường nhượng tái bảo hiểm",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "17"
+      },
+      {
+        "thong_tin": "- Thu đòi người thứ ba bồi hoàn",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "17"
+      },
+      {
+        "thong_tin": "- Thu hàng đã xử lý bồi thường 100%",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "17"
+      },
+      {
+        "thong_tin": "11. Bồi thường thuộc phần trách nhiệm giữ lại",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "12. Chi bồi thường từ dự phòng dao động lớn",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "13. Tăng (giảm) dự phòng bồi thường",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "14. Số trích dự phòng dao động lớn trong năm",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "15. Chi khác hoạt động kinh doanh bảo hiểm",
+        "is_root": true,
+        "is_parent": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "- Chi khác hoạt động kinh doanh bảo hiểm gốc",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "is_parent": true,
+        "key_parent": "25",
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "+ Chi hoa hồng",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "25.26"
+      },
+      {
+        "thong_tin": "+ Chi giám định tổn thất",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "25.26"
+      },
+      {
+        "thong_tin": "+ Chi đòi người thứ 3",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "25.26"
+      },
+      {
+        "thong_tin": "+ Chi xử lý hàng bồi thường 100%",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "25.26"
+      },
+      {
+        "thong_tin": "+ Chi đánh giá rủi ro của đối tượng bảo hiểm",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "25.26"
+      },
+      {
+        "thong_tin": "+ Chi đề phòng hạn chế rủi ro, tổn thất",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "25.26"
+      },
+      {
+        "thong_tin": "+ Chi khác",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "25.26"
+      },
+      {
+        "thong_tin": "- Chi khác hoạt động kinh doanh nhận tái bảo hiểm",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "is_parent": true,
+        "key_parent": "25",
+        "is_show_child": false
+      },
+      {
+        "thong_tin": "+ Chi hoa hồng",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "25.34"
+      },
+      {
+        "thong_tin": "+ Chi đánh giá rủi ro của đối tượng bảo hiểm",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "25.34"
+      },
+      {
+        "thong_tin": "+ Chi khác",
+        "style": "padding-left: 40px",
+        "is_italics": "true",
+        "key_parent": "25.34"
+      },
+      {
+        "thong_tin": "- Chi hoạt động nhượng tái bảo hiểm",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "- Chi Phí trực tiếp kinh doanh hoạt động khác",
+        "style": "padding-left: 20px",
+        "is_italics": "true",
+        "key_parent": "25"
+      },
+      {
+        "thong_tin": "16. Dự phòng thuế nhà thầu nước ngoài",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "17. Tổng chi trực tiếp hoạt động kinh doanh bảo hiểm",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "18. Lợi nhuận gộp hoạt động kinh doanh bảo hiểm ",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "19. Tăng (giảm) lợi nhuận do chênh lệch tỉ giá",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "20. Chi phí bán hàng",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "21. Chi phí quản lý doanh nghiệp ",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "22. Lợi nhuận thuần hoạt động kinh doanh bảo hiểm",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "23. Doanh thu hoạt động tài chính",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "24. Chi hoạt động tài chính",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "25. Lợi nhuận hoạt động tài chính",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "26. Thu nhập hoạt động khác",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "27. Chi phí hoạt động khác",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "28. Lợi nhuận hoạt động khác",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "29. Tổng lợi nhuận kế toán",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "30. Các khoản điều chỉnh tăng (giảm) lợi nhuận để xác định lợi nhuận chịu thuế TNDN",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "31. Tổng lợi nhuận trước thuế thu nhập doanh nghiệp",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "32. Dự phòng đảm bảo cân đối",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "33. Lợi nhuận chịu thuế thu nhập doanh nghiệp",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "34. Thuế thu nhập doanh nghiệp phải nộp",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "35. Lợi nhuận sau thuế thu nhập doanh nghiệp",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "36. Lợi ích cổ đông thiểu số",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "37. Lợi nhuận sau thuế của cổ đông công ty mẹ",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      },
+      {
+        "thong_tin": "EPS (VNĐ)",
+        "is_bold": "true",
+        "is_root": true,
+        "is_show_child": true
+      }
+    ]
+  }
+}
